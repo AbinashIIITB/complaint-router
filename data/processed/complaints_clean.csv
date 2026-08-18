@@ -1,0 +1,801 @@
+id,text,text_clean,department,source
+1,The bridge near IRC Village has damaged railings. It is very unsafe.,bridge irc village damage railing unsafe,Roads,synthetic
+2,Manhole cover near Bomikhal is broken and open. Very dangerous especially at night.,manhole cover bomikhal break open dangerous especially night,Sanitation,synthetic
+3,"A water pipeline near Chandrasekharpur is leaking heavily, causing road damage too.",water pipeline chandrasekharpur leak heavily cause road damage,Water,synthetic
+4,"Garbage van in Jaydev Vihar colony is coming only every 3 days, waste is building up.",garbage van jaydev vihar colony come day waste build,Sanitation,synthetic
+5,Wrong side driving near IRC Village is rampant. No enforcement whatsoever.,wrong drive irc village rampant no enforcement whatsoever,Traffic,synthetic
+6,There is a leaking water main near Bomikhal chowk. Please fix urgently.,leak water main bomikhal chowk fix urgently,Water,synthetic
+7,Power supply restored after 8 hours but now going off again near Barmunda. this needs to be fixed immediately.,power supply restore hour go barmunda need fix immediately,Electricity,synthetic
+8,There is a leaking water main near Vani Vihar colony. Please fix urgently.,leak water main vani vihar colony fix urgently,Water,synthetic
+9,Street lights in Rasulgarh are on during daytime and off at night for over a week.,street light rasulgarh daytime night week,Electricity,synthetic
+10,Power cuts in Aiginia are lasting more than 6 hours daily still not fixed. urgent attention required.,power cut aiginia last hour daily not fix urgent attention require,Electricity,synthetic
+11,Three-wheeler goods vehicles parked on footpath near Puri blocking pedestrians.,wheeler good vehicle park footpath puri block pedestrian,Traffic,synthetic
+12,The electric pole near Sambalpur has a loose wire hanging dangerously.,electric pole sambalpur loose wire hang dangerously,Electricity,synthetic
+13,Loose garbage and plastic near Bomikhal is blocking the roadside drain.,loose garbage plastic bomikhal block roadside drain,Sanitation,synthetic
+14,The road in Brahmapur colony has completely broken down after the monsoon. please take immediate action.,road brahmapur colony completely break monsoon,Roads,synthetic
+15,Broken street light near Khandagiri school is causing safety concern for students.,broken street light khandagiri school cause safety concern student,Electricity,synthetic
+16,The pedestrian signal near Master Canteen Square is not working repeatedly. Pedestrians at risk.,pedestrian signal master canteen square not work repeatedly pedestrian risk,Traffic,synthetic
+17,Encroachment on road near IRC Village has reduced it to one lane causing traffic.,encroachment road irc village reduce lane cause traffic,Traffic,synthetic
+18,Electricity transformer near Jaydev Vihar has broken down since last month. Whole street affected.,electricity transformer jaydev vihar break month street affect,Electricity,synthetic
+19,The road in IRC Village colony has completely broken down after the monsoon. the whole locality is inconvenienced.,road irc village colony completely break monsoon locality inconvenience,Roads,synthetic
+20,The electric connection to Sambalpur community hall has been disconnected wrongly.,electric connection sambalpur community hall disconnect wrongly,Electricity,synthetic
+21,"Garbage van in Jaydev Vihar colony is coming only every 3 days, waste is building up.",garbage van jaydev vihar colony come day waste build,Sanitation,synthetic
+22,Potholes on the road to Nayapalli have still not been filled for more than a week. urgent attention required.,pothole road nayapalli not fill week urgent attention require,Roads,synthetic
+23,We have not received water supply in IRC Village repeatedly. the situation is getting worse daily.,not receive water supply irc village repeatedly situation get bad daily,Water,synthetic
+24,The electric meter box near Unit-4 is open and exposed to rain. Safety risk.,electric meter box unit open expose rain safety risk,Electricity,synthetic
+25,Water supply has been cut near Rourkela without any prior notice even after multiple complaints. children are at risk.,water supply cut rourkela prior notice multiple complaint child risk,Water,synthetic
+26,Power cuts in Sishu Bhawan Chowk are lasting more than 6 hours daily for over a week. the situation is getting worse daily.,power cut sishu bhawan chowk last hour daily week situation get bad daily,Electricity,synthetic
+27,The traffic signal at Nayapalli crossroad has been dark since last month. Manual control needed.,traffic signal nayapalli crossroad dark month manual control need,Traffic,synthetic
+28,Large potholes near Brahmapur are causing traffic diversions for three days.,large pothole brahmapur cause traffic diversion day,Roads,synthetic
+29,Three-wheeler goods vehicles parked on footpath near Cuttack blocking pedestrians.,wheeler good vehicle park footpath cuttack block pedestrian,Traffic,synthetic
+30,The road near Unit-6 has a large pothole for two weeks now. children are at risk.,road unit large pothole week child risk,Roads,synthetic
+31,Garbage dumping near Acharya Vihar is happening illegally and nobody is stopping it.,garbage dumping acharya vihar happen illegally stop,Sanitation,synthetic
+32,Park near Rourkela has a broken compound wall. Outsiders are misusing it at night.,park rourkela break compound wall outsider misuse night,Parks,synthetic
+33,Garbage has not been collected in Aiginia again and again. children are at risk.,garbage not collect aiginia child risk,Sanitation,synthetic
+34,Street lights in Rourkela are on during daytime and off at night still not fixed.,street light rourkela daytime night not fix,Electricity,synthetic
+35,Auto rickshaws are blocking the entire road near Saheed Nagar road every evening.,auto rickshaw block entire road saheed nagar road evening,Traffic,synthetic
+36,No drinking water in Cuttack colony repeatedly. Residents are buying water at high cost.,no drinking water cuttack colony repeatedly resident buy water high cost,Water,synthetic
+37,Electricity transformer near Barmunda has broken down still not fixed. Whole street affected.,electricity transformer barmunda break not fix street affect,Electricity,synthetic
+38,Garbage dumping near Rourkela is happening illegally and nobody is stopping it.,garbage dumping rourkela happen illegally stop,Sanitation,synthetic
+39,Frequent voltage fluctuations in Patia are damaging our appliances for the past four days.,frequent voltage fluctuation patia damage appliance past day,Electricity,synthetic
+40,"Garbage van in IRC Village colony is coming only every 3 days, waste is building up.",garbage van irc village colony come day waste build,Sanitation,synthetic
+41,Manhole cover near Sambalpur is broken and open. Very dangerous especially at night.,manhole cover sambalpur break open dangerous especially night,Sanitation,synthetic
+42,Community water tap near Sishu Bhawan Chowk has been broken for over a week. it is a public safety hazard.,community water tap sishu bhawan chowk break week public safety hazard,Water,synthetic
+43,Dirty and foul-smelling water is coming from taps in Kalinga Nagar for three days. please take immediate action.,dirty foul smelling water come tap kalinga nagar day,Water,synthetic
+44,The road near Acharya Vihar is full of potholes making two wheelers prone to accidents.,road acharya vihar pothole make wheeler prone accident,Roads,synthetic
+45,Road maintenance work near Rourkela was started but left incomplete for two weeks now.,road maintenance work rourkela start leave incomplete week,Roads,synthetic
+46,Drainage channel near IRC Village has not been cleaned since Monday. Stagnant water everywhere.,drainage channel irc village not clean monday stagnant water,Sanitation,synthetic
+47,Manhole cover near Bhubaneswar Old Town is broken and open. Very dangerous especially at night.,manhole cover bhubaneswar old town break open dangerous especially night,Sanitation,synthetic
+48,The countdown timer on traffic signal near Acharya Vihar is not working again and again.,countdown timer traffic signal acharya vihar not work,Traffic,synthetic
+49,Encroachment on road near Vani Vihar has reduced it to one lane causing traffic.,encroachment road vani vihar reduce lane cause traffic,Traffic,synthetic
+50,The bridge near Puri has damaged railings. It is very unsafe.,bridge puri damage railing unsafe,Roads,synthetic
+51,Park near Rourkela has a broken compound wall. Outsiders are misusing it at night.,park rourkela break compound wall outsider misuse night,Parks,synthetic
+52,Old water pipes in IRC Village are rusting and contaminating drinking water supply.,old water pipe irc village rusting contaminate drink water supply,Water,synthetic
+53,The fountain in Aiginia park has not been working for more than a week. It is a public attraction.,fountain aiginia park not work week public attraction,Parks,synthetic
+54,Broken road tiles near IRC Village are creating hazard for pedestrians again and again.,break road tile irc village create hazard pedestrian,Roads,synthetic
+55,Open defecation is happening near the park in Khandagiri every morning.,open defecation happen park khandagiri morning,Sanitation,synthetic
+56,The storm drain near IRC Village is clogged causing flooding during light rain.,storm drain irc village clog cause flooding light rain,Sanitation,synthetic
+57,The park near Patia has broken swings and slides. Children are getting injured.,park patia break swing slide child get injure,Parks,synthetic
+58,Footpath near Rourkela occupied by vendors forcing pedestrians on the road.,footpath rourkela occupy vendor force pedestrian road,Traffic,synthetic
+59,The road from Unit-4 to the main highway is in terrible condition.,road unit main highway terrible condition,Roads,synthetic
+60,The square near Unit-6 is completely broken with multiple potholes. there could be a serious accident.,square unit completely break multiple pothole accident,Roads,synthetic
+61,Power cuts in Puri are lasting more than 6 hours daily still not fixed. daily commuters are suffering.,power cut puri last hour daily not fix daily commuter suffer,Electricity,synthetic
+62,There is no traffic control at Cuttack during peak hours. Chaos every morning.,no traffic control cuttack peak hour chaos morning,Traffic,synthetic
+63,Road near Barmunda gets flooded every time it rains due to poor surface drainage.,road barmunda get flood time rain poor surface drainage,Roads,synthetic
+64,Road near Sambalpur gets flooded every time it rains due to poor surface drainage.,road sambalpur get flood time rain poor surface drainage,Roads,synthetic
+65,Joggers track in Unit-4 park is full of potholes and cracks.,jogger track unit park pothole crack,Parks,synthetic
+66,The overhead water tank in Master Canteen Square is leaking and overflowing on the road.,overhead water tank master canteen square leak overflow road,Water,synthetic
+67,The road divider near Rourkela is broken and there is no barricading. the situation is getting worse daily.,road divider rourkela break no barricading situation get bad daily,Roads,synthetic
+68,Streetlights installed near Puri are not turning on since installation even after multiple complaints.,streetlight instal puri not turn installation multiple complaint,Electricity,synthetic
+69,"The signal near Puri has been blinking yellow for three days, it is chaos at peak hour.",signal puri blink yellow day chaos peak hour,Traffic,synthetic
+70,U-turn restriction sign near Barmunda has fallen down for more than a week. Causing confusion.,turn restriction sign barmunda fall week cause confusion,Traffic,synthetic
+71,Night time racing of vehicles near Jaydev Vihar is a serious safety issue. please take immediate action.,night time racing vehicle jaydev vihar safety issue,Traffic,synthetic
+72,The traffic signal at Nayapalli crossroad has been dark still not fixed. Manual control needed.,traffic signal nayapalli crossroad dark not fix manual control need,Traffic,synthetic
+73,There is frequent power cut in Unit-6 for the past four days. the whole locality is inconvenienced.,frequent power cut unit past day locality inconvenience,Electricity,synthetic
+74,The road surface near Rourkela has completely eroded. Vehicles are getting damaged.,road surface rourkela completely erode vehicle get damage,Roads,synthetic
+75,Manhole cover near Barmunda is broken and open. Very dangerous especially at night.,manhole cover barmunda break open dangerous especially night,Sanitation,synthetic
+76,Water supply has been cut near Nayapalli without any prior notice still not fixed. children are at risk.,water supply cut nayapalli prior notice not fix child risk,Water,synthetic
+77,Water tanker has not come to Bomikhal for the past four days. Residents are suffering.,water tanker not come bomikhal past day resident suffer,Water,synthetic
+78,Manhole cover near Vani Vihar is broken and open. Very dangerous especially at night.,manhole cover vani vihar break open dangerous especially night,Sanitation,synthetic
+79,Drainage channel near Tamando has not been cleaned for three days. Stagnant water everywhere.,drainage channel tamando not clean day stagnant water,Sanitation,synthetic
+80,Three-wheeler goods vehicles parked on footpath near Rourkela blocking pedestrians.,wheeler good vehicle park footpath rourkela block pedestrian,Traffic,synthetic
+81,Three-wheeler goods vehicles parked on footpath near Sambalpur blocking pedestrians.,wheeler good vehicle park footpath sambalpur block pedestrian,Traffic,synthetic
+82,The electric pole near Cuttack has a loose wire hanging dangerously.,electric pole cuttack loose wire hang dangerously,Electricity,synthetic
+83,Power outage in Saheed Nagar for over a week. All perishable food is getting wasted.,power outage saheed nagar week perishable food get waste,Electricity,synthetic
+84,The park near Brahmapur has broken swings and slides. Children are getting injured.,park brahmapur break swing slide child get injure,Parks,synthetic
+85,Electricity transformer near Chandrasekharpur has broken down for over a week. Whole street affected.,electricity transformer chandrasekharpur break week street affect,Electricity,synthetic
+86,Garbage near Cuttack nagar has been burning for two days. Air is polluted.,garbage cuttack nagar burn day air pollute,Sanitation,synthetic
+87,Overhead electric cable near Brahmapur is sagging very low. Vehicles might touch it.,overhead electric cable brahmapur sag low vehicle touch,Electricity,synthetic
+88,Water coming from the taps in Rourkela is brown and unfit for drinking. the situation is getting worse daily.,water come tap rourkela brown unfit drink situation get bad daily,Water,synthetic
+89,The overhead water tank in Sishu Bhawan Chowk is leaking and overflowing on the road.,overhead water tank sishu bhawan chowk leak overflow road,Water,synthetic
+90,The electricity distribution box near IRC Village is exposed and unlocked. Danger risk.,electricity distribution box irc village expose unlocked danger risk,Electricity,synthetic
+91,Traffic signal poles near Sishu Bhawan Chowk are damaged and wires are hanging out.,traffic signal pole sishu bhawan chowk damage wire hang,Traffic,synthetic
+92,Auto rickshaws are blocking the entire road near Brahmapur road every evening.,auto rickshaw block entire road brahmapur road evening,Traffic,synthetic
+93,Garbage collection truck near Vani Vihar is coming once a week instead of daily.,garbage collection truck vani vihar come week instead daily,Sanitation,synthetic
+94,Open defecation is happening near the park in Nayapalli every morning.,open defecation happen park nayapalli morning,Sanitation,synthetic
+95,Water pipeline near Khandagiri has developed multiple leaks causing waterlogging.,water pipeline khandagiri develop multiple leak cause waterlogging,Water,synthetic
+96,Public toilet near Cuttack is broken and overflowing for three days. please take immediate action.,public toilet cuttack break overflow day,Sanitation,synthetic
+97,Power supply restored after 8 hours but now going off again near Jaydev Vihar. daily commuters are suffering.,power supply restore hour go jaydev vihar daily commuter suffer,Electricity,synthetic
+98,There is a huge crater on the main road near Saheed Nagar still not fixed. it is a public safety hazard.,huge crater main road saheed nagar not fix public safety hazard,Roads,synthetic
+99,U-turn restriction sign near Nayapalli has fallen down repeatedly. Causing confusion.,turn restriction sign nayapalli fall repeatedly cause confusion,Traffic,synthetic
+100,Trucks are parked illegally overnight on Barmunda square. the situation is getting worse daily.,truck park illegally overnight barmunda square situation get bad daily,Traffic,synthetic
+101,Road rage incidents near Unit-4 junction are increasing due to no signals.,road rage incident unit junction increase no signal,Traffic,synthetic
+102,The underground water pipeline near Chandrasekharpur is broken and water is gushing out.,underground water pipeline chandrasekharpur break water gush,Water,synthetic
+103,Concrete road near Aiginia has developed cracks and is sinking in some areas.,concrete road aiginia develop crack sink area,Roads,synthetic
+104,Old water pipes in Kalinga Nagar are rusting and contaminating drinking water supply.,old water pipe kalinga nagar rusting contaminate drink water supply,Water,synthetic
+105,No water supply in our area near Bhubaneswar Old Town since the maintenance work started for over a week.,no water supply bhubaneswar old town maintenance work start week,Water,synthetic
+106,Broken road tiles near Aiginia are creating hazard for pedestrians repeatedly.,break road tile aiginia create hazard pedestrian repeatedly,Roads,synthetic
+107,Traffic signal timing near Rourkela is wrong. Green for 5 seconds is too short.,traffic signal timing rourkela wrong green second short,Traffic,synthetic
+108,Garden area near Sambalpur is being used for garbage dumping since Monday. there could be a serious accident.,garden sambalpur garbage dumping monday accident,Parks,synthetic
+109,The overhead water tank in Puri is leaking and overflowing on the road.,overhead water tank puri leak overflow road,Water,synthetic
+110,The park in Aiginia has broken benches and no lights. Unsafe at night.,park aiginia break bench no light unsafe night,Parks,synthetic
+111,Water supply has been cut near Kalinga Nagar without any prior notice for more than a week. this needs to be fixed immediately.,water supply cut kalinga nagar prior notice week need fix immediately,Water,synthetic
+112,Garden area near Unit-4 is being used for garbage dumping still not fixed. please take immediate action.,garden unit garbage dumping not fix,Parks,synthetic
+113,High tension wire near Dumduma is passing very low over the road. Very dangerous.,high tension wire dumduma pass low road dangerous,Electricity,synthetic
+114,The water pipe near Cuttack has burst and water is being wasted since last week.,water pipe cuttack burst water waste week,Water,synthetic
+115,"Garbage van in Tamando colony is coming only every 3 days, waste is building up.",garbage van tamando colony come day waste build,Sanitation,synthetic
+116,The streetlight near Unit-6 has been not working since last month. the situation is getting worse daily.,streetlight unit not work month situation get bad daily,Electricity,synthetic
+117,Old water pipes in Sishu Bhawan Chowk are rusting and contaminating drinking water supply.,old water pipe sishu bhawan chowk rusting contaminate drink water supply,Water,synthetic
+118,Sewage drain near Jaydev Vihar is blocked and water is overflowing on the road. we have been suffering daily.,sewage drain jaydev vihar block water overflow road suffer daily,Sanitation,synthetic
+119,Garbage dumping near Acharya Vihar is happening illegally and nobody is stopping it.,garbage dumping acharya vihar happen illegally stop,Sanitation,synthetic
+120,Road maintenance work near Kalinga Nagar was started but left incomplete for three days.,road maintenance work kalinga nagar start leave incomplete day,Roads,synthetic
+121,The road in Rasulgarh colony has completely broken down after the monsoon. there could be a serious accident.,road rasulgarh colony completely break monsoon accident,Roads,synthetic
+122,The park near Chandrasekharpur has broken swings and slides. Children are getting injured.,park chandrasekharpur break swing slide child get injure,Parks,synthetic
+123,Encroachment on road near Brahmapur has reduced it to one lane causing traffic.,encroachment road brahmapur reduce lane cause traffic,Traffic,synthetic
+124,The road near Sishu Bhawan Chowk is completely dark at night and full of potholes. daily commuters are suffering.,road sishu bhawan chowk completely dark night pothole daily commuter suffer,Roads,synthetic
+125,Broken street light near Rourkela school is causing safety concern for students.,broken street light rourkela school cause safety concern student,Electricity,synthetic
+126,Speed breaker near Puri has no markings and is causing accidents.,speed breaker puri no marking cause accident,Roads,synthetic
+127,Sewage drain near Puri is blocked and water is overflowing on the road. urgent attention required.,sewage drain puri block water overflow road urgent attention require,Sanitation,synthetic
+128,The underground water pipeline near IRC Village is broken and water is gushing out.,underground water pipeline irc village break water gush,Water,synthetic
+129,The borwell near Barmunda is not working for more than a week. No drinking water available.,borwell barmunda not work week no drinking water available,Water,synthetic
+130,The garbage van has not visited Bomikhal even after multiple complaints. Waste is piling up on the road.,garbage van not visit bomikhal multiple complaint waste pile road,Sanitation,synthetic
+131,There is a large pile of garbage near Unit-4 that has not been cleared for more than a week.,large pile garbage unit not clear week,Sanitation,synthetic
+132,No zebra crossing near Acharya Vihar school. Children risk their life daily. there could be a serious accident.,no zebra crossing acharya vihar school child risk life daily accident,Traffic,synthetic
+133,Water supply timings in Saheed Nagar are erratic. We never know when water will come.,water supply timing saheed nagar erratic never know water come,Water,synthetic
+134,Park near IRC Village has a broken compound wall. Outsiders are misusing it at night.,park irc village break compound wall outsider misuse night,Parks,synthetic
+135,There is frequent power cut in Rasulgarh since Monday. elderly people are affected.,frequent power cut rasulgarh monday elderly people affect,Electricity,synthetic
+136,Park near Nayapalli has a broken compound wall. Outsiders are misusing it at night.,park nayapalli break compound wall outsider misuse night,Parks,synthetic
+137,Broken street light near Sambalpur school is causing safety concern for students.,broken street light sambalpur school cause safety concern student,Electricity,synthetic
+138,The water supply in Khandagiri has been disrupted again and again. this needs to be fixed immediately.,water supply khandagiri disrupt need fix immediately,Water,synthetic
+139,Sewage is mixing with drinking water supply in Dumduma. Very serious. it is causing inconvenience to residents.,sewage mix drinking water supply dumduma cause inconvenience resident,Water,synthetic
+140,The road near Bhubaneswar Old Town is full of potholes making two wheelers prone to accidents.,road bhubaneswar old town pothole make wheeler prone accident,Roads,synthetic
+141,Street lights in Unit-6 are on during daytime and off at night even after multiple complaints.,street light unit daytime night multiple complaint,Electricity,synthetic
+142,Power supply in Tamando goes off every night for over a week. We face a lot of issues.,power supply tamando go night week face lot issue,Electricity,synthetic
+143,There is no traffic control at Tamando during peak hours. Chaos every morning.,no traffic control tamando peak hour chaos morning,Traffic,synthetic
+144,The main water supply valve near Dumduma is stuck and causing low pressure issues.,main water supply valve dumduma stuck cause low pressure issue,Water,synthetic
+145,Water supply timings in IRC Village are erratic. We never know when water will come.,water supply timing irc village erratic never know water come,Water,synthetic
+146,U-turn restriction sign near Master Canteen Square has fallen down since last week. Causing confusion.,turn restriction sign master canteen square fall week cause confusion,Traffic,synthetic
+147,Electric pole in Nayapalli colony is leaning and might fall during rain. it is a public safety hazard.,electric pole nayapalli colony lean fall rain public safety hazard,Electricity,synthetic
+148,The bridge near Khandagiri has damaged railings. It is very unsafe.,bridge khandagiri damage railing unsafe,Roads,synthetic
+149,Road maintenance work near Tamando was started but left incomplete for the past four days.,road maintenance work tamando start leave incomplete past day,Roads,synthetic
+150,Waste dumped near Sishu Bhawan Chowk flyover is attracting stray dogs and creating hazard.,waste dump sishu bhawan chowk flyover attract stray dog create hazard,Sanitation,synthetic
+151,The electric pole near Rourkela has a loose wire hanging dangerously.,electric pole rourkela loose wire hang dangerously,Electricity,synthetic
+152,The electric connection to Unit-6 community hall has been disconnected wrongly.,electric connection unit community hall disconnect wrongly,Electricity,synthetic
+153,Open garbage dumping is happening near Brahmapur lane. Foul smell everywhere.,open garbage dumping happen brahmapur lane foul smell,Sanitation,synthetic
+154,Children's play equipment in Unit-6 park is rusting and dangerous still not fixed.,child play equipment unit park rusting dangerous not fix,Parks,synthetic
+155,The fountain in Tamando park has not been working for two weeks now. It is a public attraction.,fountain tamando park not work week public attraction,Parks,synthetic
+156,The community dustbin near Patia is overflowing again and again. motorists are in danger.,community dustbin patia overflow motorist danger,Sanitation,synthetic
+157,The road near Unit-6 is full of potholes making two wheelers prone to accidents.,road unit pothole make wheeler prone accident,Roads,synthetic
+158,Garbage collection workers have not come to IRC Village for over a week. Rats are appearing.,garbage collection worker not come irc village week rat appear,Sanitation,synthetic
+159,The bridge near Master Canteen Square has damaged railings. It is very unsafe.,bridge master canteen square damage railing unsafe,Roads,synthetic
+160,The bridge near Bomikhal has damaged railings. It is very unsafe.,bridge bomikhal damage railing unsafe,Roads,synthetic
+161,Water tanker has not come to Bomikhal for the past four days. Residents are suffering.,water tanker not come bomikhal past day resident suffer,Water,synthetic
+162,Speeding vehicles on Unit-4 lane are a constant threat. Need speed breaker.,speed vehicle unit lane constant threat need speed breaker,Traffic,synthetic
+163,Garbage collection workers have not come to Nayapalli for over a week. Rats are appearing.,garbage collection worker not come nayapalli week rat appear,Sanitation,synthetic
+164,Open drainage near Dumduma is breeding mosquitoes. Residents are falling sick.,open drainage dumduma breed mosquito resident fall sick,Sanitation,synthetic
+165,No drinking water in Acharya Vihar colony since last week. Residents are buying water at high cost.,no drinking water acharya vihar colony week resident buy water high cost,Water,synthetic
+166,Three-wheeler goods vehicles parked on footpath near Chandrasekharpur blocking pedestrians.,wheeler good vehicle park footpath chandrasekharpur block pedestrian,Traffic,synthetic
+167,The countdown timer on traffic signal near Jaydev Vihar is not working repeatedly.,countdown timer traffic signal jaydev vihar not work repeatedly,Traffic,synthetic
+168,High tension wire near Unit-6 is passing very low over the road. Very dangerous.,high tension wire unit pass low road dangerous,Electricity,synthetic
+169,The footpath on Kalinga Nagar square is broken and dangerous for pedestrians.,footpath kalinga nagar square break dangerous pedestrian,Roads,synthetic
+170,Children's play equipment in Khandagiri park is rusting and dangerous for two weeks now.,child play equipment khandagiri park rusting dangerous week,Parks,synthetic
+171,Public toilet near Kalinga Nagar is broken and overflowing for over a week. it is a public safety hazard.,public toilet kalinga nagar break overflow week public safety hazard,Sanitation,synthetic
+172,Road near Saheed Nagar has been heavily damaged due to recent digging work since Monday.,road saheed nagar heavily damage recent digging work monday,Roads,synthetic
+173,Construction debris has been dumped on the road near IRC Village again and again. urgent attention required.,construction debris dump road irc village urgent attention require,Roads,synthetic
+174,The road surface near Nayapalli has completely eroded. Vehicles are getting damaged.,road surface nayapalli completely erode vehicle get damage,Roads,synthetic
+175,The transformer near Jaydev Vihar has been making loud noise and sparking since last month.,transformer jaydev vihar make loud noise spark month,Electricity,synthetic
+176,The road surface near Bhubaneswar Old Town has completely eroded. Vehicles are getting damaged.,road surface bhubaneswar old town completely erode vehicle get damage,Roads,synthetic
+177,Garden area near Master Canteen Square is being used for garbage dumping even after multiple complaints. elderly people are affected.,garden master canteen square garbage dump multiple complaint elderly people affect,Parks,synthetic
+178,Street lights in Puri are on during daytime and off at night for more than a week.,street light puri daytime night week,Electricity,synthetic
+179,Encroachment on the park in Patia is reducing the open space for residents.,encroachment park patia reduce open space resident,Parks,synthetic
+180,School zone near Sishu Bhawan Chowk has no speed limits enforced. Children are in danger. this needs to be fixed immediately.,school zone sishu bhawan chowk no speed limit enforce child danger need fix immediately,Traffic,synthetic
+181,Power outage in Jaydev Vihar since last week. All perishable food is getting wasted.,power outage jaydev vihar week perishable food get waste,Electricity,synthetic
+182,Water pipe near Aiginia burst during road construction and has not been repaired.,water pipe aiginia burst road construction not repair,Water,synthetic
+183,Power supply in Khandagiri goes off every night again and again. We face a lot of issues.,power supply khandagiri go night face lot issue,Electricity,synthetic
+184,High tension wire near Dumduma is passing very low over the road. Very dangerous.,high tension wire dumduma pass low road dangerous,Electricity,synthetic
+185,The service road near Cuttack is completely damaged with loose gravel everywhere.,service road cuttack completely damage loose gravel,Roads,synthetic
+186,Community water tap near Sambalpur has been broken even after multiple complaints. please take immediate action.,community water tap sambalpur break multiple complaint,Water,synthetic
+187,The pedestrian signal near Rourkela is not working since Monday. Pedestrians at risk.,pedestrian signal rourkela not work monday pedestrian risk,Traffic,synthetic
+188,Speed breaker near Khandagiri has no markings and is causing accidents.,speed breaker khandagiri no marking cause accident,Roads,synthetic
+189,Heavy vehicles are parked on the main road near Bomikhal still not fixed causing congestion.,heavy vehicle park main road bomikhal not fix cause congestion,Traffic,synthetic
+190,High tension wire near Vani Vihar is passing very low over the road. Very dangerous.,high tension wire vani vihar pass low road dangerous,Electricity,synthetic
+191,Heavy potholes on Patia square are causing accidents since last month.,heavy pothole patia square cause accident month,Roads,synthetic
+192,Broken road tiles near Vani Vihar are creating hazard for pedestrians since last month.,break road tile vani vihar create hazard pedestrian month,Roads,synthetic
+193,The road surface near Rasulgarh has completely eroded. Vehicles are getting damaged.,road surface rasulgarh completely erode vehicle get damage,Roads,synthetic
+194,The underground water pipeline near Puri is broken and water is gushing out.,underground water pipeline puri break water gush,Water,synthetic
+195,Broken road tiles near Aiginia are creating hazard for pedestrians for the past four days.,break road tile aiginia create hazard pedestrian past day,Roads,synthetic
+196,There is a leaking water main near Khandagiri street. Please fix urgently.,leak water main khandagiri street fix urgently,Water,synthetic
+197,Sewage is mixing with drinking water supply in Nayapalli. Very serious. please take immediate action.,sewage mix drinking water supply nayapalli,Water,synthetic
+198,The garden near Khandagiri has dead plants that have not been replaced for three days.,garden khandagiri dead plant not replace day,Parks,synthetic
+199,Public toilet near Barmunda is broken and overflowing since last month. motorists are in danger.,public toilet barmunda break overflowing month motorist danger,Sanitation,synthetic
+200,The overhead water tank in Khandagiri is leaking and overflowing on the road.,overhead water tank khandagiri leak overflow road,Water,synthetic
+201,Our electricity bill near Kalinga Nagar has come 3 times higher than normal without reason.,electricity bill kalinga nagar come time high normal reason,Electricity,synthetic
+202,The water meter in our building near Kalinga Nagar is faulty and showing excess usage.,water meter building kalinga nagar faulty show excess usage,Water,synthetic
+203,The countdown timer on traffic signal near Sambalpur is not working even after multiple complaints.,countdown timer traffic signal sambalpur not work multiple complaint,Traffic,synthetic
+204,The road near Puri has a large pothole still not fixed. please take immediate action.,road puri large pothole not fix,Roads,synthetic
+205,Water supply has been cut near Acharya Vihar without any prior notice for more than a week. children are at risk.,water supply cut acharya vihar prior notice week child risk,Water,synthetic
+206,Garbage near Sishu Bhawan Chowk colony has been burning for two days. Air is polluted.,garbage sishu bhawan chowk colony burn day air pollute,Sanitation,synthetic
+207,The road near Jaydev Vihar is full of potholes making two wheelers prone to accidents.,road jaydev vihar pothole make wheeler prone accident,Roads,synthetic
+208,Stray dogs have occupied the park near Nayapalli. Children cannot play safely.,stray dog occupy park nayapalli child not play safely,Parks,synthetic
+209,School zone near Aiginia has no speed limits enforced. Children are in danger. please take immediate action.,school zone aiginia no speed limit enforce child danger,Traffic,synthetic
+210,Power supply fluctuates heavily near Nayapalli causing damage to electronic devices.,power supply fluctuate heavily nayapalli causing damage electronic device,Electricity,synthetic
+211,Waste dumped near Aiginia flyover is attracting stray dogs and creating hazard.,waste dump aiginia flyover attract stray dog create hazard,Sanitation,synthetic
+212,The traffic signal at Bhubaneswar Old Town crossroad has been dark since Monday. Manual control needed.,traffic signal bhubaneswar old town crossroad dark monday manual control need,Traffic,synthetic
+213,The water meter in our building near Tamando is faulty and showing excess usage.,water meter building tamando faulty show excess usage,Water,synthetic
+214,Garbage collection workers have not come to Patia again and again. Rats are appearing.,garbage collection worker not come patia rat appear,Sanitation,synthetic
+215,The garbage van has not visited Unit-4 again and again. Waste is piling up on the road.,garbage van not visit unit waste pile road,Sanitation,synthetic
+216,Traffic signal poles near Master Canteen Square are damaged and wires are hanging out.,traffic signal pole master canteen square damage wire hang,Traffic,synthetic
+217,Water pipe near Master Canteen Square burst during road construction and has not been repaired.,water pipe master canteen square burst road construction not repair,Water,synthetic
+218,Power supply in Cuttack goes off every night for over a week. We face a lot of issues.,power supply cuttack go night week face lot issue,Electricity,synthetic
+219,The fountain in Saheed Nagar park has not been working repeatedly. It is a public attraction.,fountain saheed nagar park not work repeatedly public attraction,Parks,synthetic
+220,The main water supply valve near Cuttack is stuck and causing low pressure issues.,main water supply valve cuttack stuck cause low pressure issue,Water,synthetic
+221,The park near Acharya Vihar has not been maintained since last week. Grass is overgrown.,park acharya vihar not maintain week grass overgrow,Parks,synthetic
+222,Dead animal carcass lying on the road near Puri for three days. Extremely unhygienic.,dead animal carcass lie road puri day extremely unhygienic,Sanitation,synthetic
+223,The nullah near Unit-4 has not been desilted still not fixed. Flooding is certain this monsoon.,nullah unit not desilte not fix flooding certain monsoon,Sanitation,synthetic
+224,The pedestrian signal near Acharya Vihar is not working even after multiple complaints. Pedestrians at risk.,pedestrian signal acharya vihar not work multiple complaint pedestrian risk,Traffic,synthetic
+225,The footpath on Khandagiri nagar is broken and dangerous for pedestrians.,footpath khandagiri nagar break dangerous pedestrian,Roads,synthetic
+226,There is a large pile of garbage near Acharya Vihar that has not been cleared for over a week.,large pile garbage acharya vihar not clear week,Sanitation,synthetic
+227,Garbage has not been collected in Saheed Nagar for over a week. please take immediate action.,garbage not collect saheed nagar week,Sanitation,synthetic
+228,The bridge near Nayapalli has damaged railings. It is very unsafe.,bridge nayapalli damage railing unsafe,Roads,synthetic
+229,Auto rickshaws are blocking the entire road near Patia square every evening.,auto rickshaw block entire road patia square evening,Traffic,synthetic
+230,Drain near Rourkela is choked with plastic waste. Sewage spilling on footpath.,drain rourkela choke plastic waste sewage spill footpath,Sanitation,synthetic
+231,Water supply timings in IRC Village are erratic. We never know when water will come.,water supply timing irc village erratic never know water come,Water,synthetic
+232,No drinking water facility in Bhubaneswar Old Town park. Residents request a water tap.,no drinking water facility bhubaneswar old town park resident water tap,Parks,synthetic
+233,Public toilet near Barmunda is broken and overflowing for over a week. this needs to be fixed immediately.,public toilet barmunda break overflow week need fix immediately,Sanitation,synthetic
+234,Electric pole in Bhubaneswar Old Town colony is leaning and might fall during rain. it is causing inconvenience to residents.,electric pole bhubaneswar old town colony lean fall rain cause inconvenience resident,Electricity,synthetic
+235,Water coming from the taps in Puri is brown and unfit for drinking. it is causing inconvenience to residents.,water come tap puri brown unfit drink cause inconvenience resident,Water,synthetic
+236,The road from Rourkela to the main highway is in terrible condition.,road rourkela main highway terrible condition,Roads,synthetic
+237,Bus stop near Unit-6 has no shelter. Buses also stop in middle of road causing jam.,bus stop unit no shelter bus stop middle road cause jam,Traffic,synthetic
+238,No water supply in our area near Tamando since the maintenance work started again and again.,no water supply tamando maintenance work start,Water,synthetic
+239,Garden area near Dumduma is being used for garbage dumping since last week. it is causing inconvenience to residents.,garden dumduma garbage dumping week cause inconvenience resident,Parks,synthetic
+240,Dirty and foul-smelling water is coming from taps in Unit-4 since Monday. we have been suffering daily.,dirty foul smelling water come tap unit monday suffer daily,Water,synthetic
+241,Night time racing of vehicles near Barmunda is a serious safety issue. it is causing inconvenience to residents.,night time racing vehicle barmunda safety issue cause inconvenience resident,Traffic,synthetic
+242,The road in Rasulgarh colony has completely broken down after the monsoon. there could be a serious accident.,road rasulgarh colony completely break monsoon accident,Roads,synthetic
+243,The underground water pipeline near Cuttack is broken and water is gushing out.,underground water pipeline cuttack break water gush,Water,synthetic
+244,The road surface near IRC Village has completely eroded. Vehicles are getting damaged.,road surface irc village completely erode vehicle get damage,Roads,synthetic
+245,The water pipe near IRC Village has burst and water is being wasted even after multiple complaints.,water pipe irc village burst water waste multiple complaint,Water,synthetic
+246,Water tanker has not come to Patia since Monday. Residents are suffering.,water tanker not come patia monday resident suffer,Water,synthetic
+247,The drain near Saheed Nagar is overflowing with sewage for the past four days. motorists are in danger.,drain saheed nagar overflow sewage past day motorist danger,Sanitation,synthetic
+248,There is a huge crater on the main road near Puri repeatedly. elderly people are affected.,huge crater main road puri repeatedly elderly people affect,Roads,synthetic
+249,Traffic signal poles near Puri are damaged and wires are hanging out.,traffic signal pole puri damage wire hang,Traffic,synthetic
+250,Power supply fluctuates heavily near Unit-4 causing damage to electronic devices.,power supply fluctuate heavily unit cause damage electronic device,Electricity,synthetic
+251,Footpath near Vani Vihar occupied by vendors forcing pedestrians on the road.,footpath vani vihar occupy vendor force pedestrian road,Traffic,synthetic
+252,The road in Bomikhal colony has completely broken down after the monsoon. elderly people are affected.,road bomikhal colony completely break monsoon elderly people affect,Roads,synthetic
+253,Road near Sambalpur has been heavily damaged due to recent digging work again and again.,road sambalpur heavily damage recent digging work,Roads,synthetic
+254,New electricity connection applied for near Unit-4 but not provided for three days.,new electricity connection apply unit not provide day,Electricity,synthetic
+255,The park lights in Sambalpur have been broken for the past four days. Park is unsafe after dark.,park light sambalpur break past day park unsafe dark,Parks,synthetic
+256,Community water tap near Unit-4 has been broken for more than a week. the whole locality is inconvenienced.,community water tap unit break week locality inconvenience,Water,synthetic
+257,Power supply restored after 8 hours but now going off again near Sambalpur. we have been suffering daily.,power supply restore hour go sambalpur suffer daily,Electricity,synthetic
+258,The electric connection to IRC Village community hall has been disconnected wrongly.,electric connection irc village community hall disconnect wrongly,Electricity,synthetic
+259,Auto rickshaws are blocking the entire road near Master Canteen Square street every evening.,auto rickshaw block entire road master canteen square street evening,Traffic,synthetic
+260,The main water supply valve near Bhubaneswar Old Town is stuck and causing low pressure issues.,main water supply valve bhubaneswar old town stuck cause low pressure issue,Water,synthetic
+261,There is a huge crater on the main road near Bomikhal since Monday. children are at risk.,huge crater main road bomikhal monday child risk,Roads,synthetic
+262,Concrete road near Tamando has developed cracks and is sinking in some areas.,concrete road tamando develop crack sink area,Roads,synthetic
+263,Power outage in Sambalpur since last week. All perishable food is getting wasted.,power outage sambalpur week perishable food get waste,Electricity,synthetic
+264,Garden area near Saheed Nagar is being used for garbage dumping even after multiple complaints. it is a public safety hazard.,garden saheed nagar garbage dump multiple complaint public safety hazard,Parks,synthetic
+265,Overhead electric cable near Sishu Bhawan Chowk is sagging very low. Vehicles might touch it.,overhead electric cable sishu bhawan chowk sag low vehicle touch,Electricity,synthetic
+266,The electricity distribution box near Bomikhal is exposed and unlocked. Danger risk.,electricity distribution box bomikhal expose unlocked danger risk,Electricity,synthetic
+267,The electric pole near Jaydev Vihar has a loose wire hanging dangerously.,electric pole jaydev vihar loose wire hang dangerously,Electricity,synthetic
+268,Our electricity bill near Bomikhal has come 3 times higher than normal without reason.,electricity bill bomikhal come time high normal reason,Electricity,synthetic
+269,"The signal near Bhubaneswar Old Town has been blinking yellow for three days, it is chaos at peak hour.",signal bhubaneswar old town blink yellow day chaos peak hour,Traffic,synthetic
+270,Water coming from the taps in IRC Village is brown and unfit for drinking. daily commuters are suffering.,water come tap irc village brown unfit drink daily commuter suffer,Water,synthetic
+271,"Vehicles are parked on both sides of the road near Master Canteen Square, blocking traffic.",vehicle park side road master canteen square block traffic,Traffic,synthetic
+272,Sewage is mixing with drinking water supply in Sambalpur. Very serious. elderly people are affected.,sewage mix drinking water supply sambalpur elderly people affect,Water,synthetic
+273,The park in Khandagiri has broken benches and no lights. Unsafe at night.,park khandagiri break bench no light unsafe night,Parks,synthetic
+274,The streetlight near Barmunda has been not working for two weeks now. we have been suffering daily.,streetlight barmunda not work week suffer daily,Electricity,synthetic
+275,The community dustbin near Cuttack is overflowing for two weeks now. elderly people are affected.,community dustbin cuttack overflow week elderly people affect,Sanitation,synthetic
+276,The bridge near Patia has damaged railings. It is very unsafe.,bridge patia damage railing unsafe,Roads,synthetic
+277,The countdown timer on traffic signal near Brahmapur is not working since last month.,countdown timer traffic signal brahmapur not work month,Traffic,synthetic
+278,The nullah near Aiginia has not been desilted for the past four days. Flooding is certain this monsoon.,nullah aiginia not desilte past day flooding certain monsoon,Sanitation,synthetic
+279,The park lights in Unit-6 have been broken since Monday. Park is unsafe after dark.,park light unit break monday park unsafe dark,Parks,synthetic
+280,Garden area near Unit-4 is being used for garbage dumping for two weeks now. urgent attention required.,garden unit garbage dumping week urgent attention require,Parks,synthetic
+281,No road marking or lane discipline near Saheed Nagar. Total traffic disorder.,no road mark lane discipline saheed nagar total traffic disorder,Traffic,synthetic
+282,Water supply timings in Dumduma are erratic. We never know when water will come.,water supply timing dumduma erratic never know water come,Water,synthetic
+283,Garbage near Unit-4 lane has been burning for two days. Air is polluted.,garbage unit lane burn day air pollute,Sanitation,synthetic
+284,Road near Bomikhal has been heavily damaged due to recent digging work for the past four days.,road bomikhal heavily damage recent dig work past day,Roads,synthetic
+285,Power supply in Rasulgarh goes off every night even after multiple complaints. We face a lot of issues.,power supply rasulgarh go night multiple complaint face lot issue,Electricity,synthetic
+286,Power cuts in IRC Village are lasting more than 6 hours daily since Monday. it is a public safety hazard.,power cut irc village last hour daily monday public safety hazard,Electricity,synthetic
+287,There is a large pile of garbage near Rourkela that has not been cleared for more than a week.,large pile garbage rourkela not clear week,Sanitation,synthetic
+288,The traffic signal at Cuttack crossroad has been dark for over a week. Manual control needed.,traffic signal cuttack crossroad dark week manual control need,Traffic,synthetic
+289,Road cutting work was done near Brahmapur but it has not been repaired since Monday.,road cutting work brahmapur not repair monday,Roads,synthetic
+290,Water pressure is very low in Master Canteen Square street. We are not getting enough water.,water pressure low master canteen square street not get water,Water,synthetic
+291,Sewage is mixing with drinking water supply in Nayapalli. Very serious. it is a public safety hazard.,sewage mix drinking water supply nayapalli public safety hazard,Water,synthetic
+292,Trucks are parked illegally overnight on Kalinga Nagar nagar. children are at risk.,truck park illegally overnight kalinga nagar nagar child risk,Traffic,synthetic
+293,Illegal parking near Acharya Vihar lane is blocking traffic flow completely.,illegal parking acharya vihar lane block traffic flow completely,Traffic,synthetic
+294,Dead animal carcass lying on the road near Master Canteen Square for the past four days. Extremely unhygienic.,dead animal carcass lie road master canteen square past day extremely unhygienic,Sanitation,synthetic
+295,The electric pole near Puri has a loose wire hanging dangerously.,electric pole puri loose wire hang dangerously,Electricity,synthetic
+296,There is a huge crater on the main road near Sambalpur still not fixed. urgent attention required.,huge crater main road sambalpur not fix urgent attention require,Roads,synthetic
+297,The road near Khandagiri is full of potholes making two wheelers prone to accidents.,road khandagiri pothole make wheeler prone accident,Roads,synthetic
+298,The main arterial road near Kalinga Nagar has not been repaired still not fixed. children are at risk.,main arterial road kalinga nagar not repair not fix child risk,Roads,synthetic
+299,Stray dogs have occupied the park near Acharya Vihar. Children cannot play safely.,stray dog occupy park acharya vihar child not play safely,Parks,synthetic
+300,The transformer near IRC Village has been making loud noise and sparking since last week.,transformer irc village make loud noise spark week,Electricity,synthetic
+301,The lane near Patia is completely broken with multiple potholes. children are at risk.,lane patia completely break multiple pothole child risk,Roads,synthetic
+302,Bus stop near Kalinga Nagar has no shelter. Buses also stop in middle of road causing jam.,bus stop kalinga nagar no shelter bus stop middle road cause jam,Traffic,synthetic
+303,Large potholes near Barmunda are causing traffic diversions repeatedly.,large pothole barmunda cause traffic diversion repeatedly,Roads,synthetic
+304,Broken street light near Master Canteen Square school is causing safety concern for students.,broken street light master canteen square school cause safety concern student,Electricity,synthetic
+305,The traffic signal near Tamando has been blinking yellow since last week. daily commuters are suffering.,traffic signal tamando blink yellow week daily commuter suffer,Traffic,synthetic
+306,Water pipe near Sishu Bhawan Chowk burst during road construction and has not been repaired.,water pipe sishu bhawan chowk burst road construction not repair,Water,synthetic
+307,Electric pole in Kalinga Nagar colony is leaning and might fall during rain. this needs to be fixed immediately.,electric pole kalinga nagar colony lean fall rain need fix immediately,Electricity,synthetic
+308,The road near Jaydev Vihar has a large pothole for the past four days. the situation is getting worse daily.,road jaydev vihar large pothole past day situation get bad daily,Roads,synthetic
+309,Road cutting work was done near Jaydev Vihar but it has not been repaired since last week.,road cutting work jaydev vihar not repair week,Roads,synthetic
+310,There is no traffic signal at the junction near Kalinga Nagar. Accidents are happening.,no traffic signal junction kalinga nagar accident happen,Traffic,synthetic
+311,Road cutting work was done near IRC Village but it has not been repaired for two weeks now.,road cutting work irc village not repair week,Roads,synthetic
+312,Power outage in Aiginia again and again. All perishable food is getting wasted.,power outage aiginia perishable food get waste,Electricity,synthetic
+313,Power cuts in Saheed Nagar are lasting more than 6 hours daily since Monday. motorists are in danger.,power cut saheed nagar last hour daily monday motorist danger,Electricity,synthetic
+314,Our electricity bill near Master Canteen Square has come 3 times higher than normal without reason.,electricity bill master canteen square come time high normal reason,Electricity,synthetic
+315,Dirty and foul-smelling water is coming from taps in Bomikhal since Monday. there could be a serious accident.,dirty foul smelling water come tap bomikhal monday accident,Water,synthetic
+316,Waste dumped near Saheed Nagar flyover is attracting stray dogs and creating hazard.,waste dump saheed nagar flyover attract stray dog create hazard,Sanitation,synthetic
+317,Footpath near Saheed Nagar occupied by vendors forcing pedestrians on the road.,footpath saheed nagar occupy vendor force pedestrian road,Traffic,synthetic
+318,Broken road near Rasulgarh is flooded with water during rains. elderly people are affected.,break road rasulgarh flood water rain elderly people affect,Roads,synthetic
+319,There is a live electric wire lying on the road near Sishu Bhawan Chowk. Very dangerous. this needs to be fixed immediately.,live electric wire lie road sishu bhawan chowk dangerous need fix immediately,Electricity,synthetic
+320,"The signal near Sambalpur has been blinking yellow for three days, it is chaos at peak hour.",signal sambalpur blink yellow day chaos peak hour,Traffic,synthetic
+321,Frequent voltage fluctuations in Jaydev Vihar are damaging our appliances repeatedly.,frequent voltage fluctuation jaydev vihar damage appliance repeatedly,Electricity,synthetic
+322,Joggers track in Dumduma park is full of potholes and cracks.,jogger track dumduma park pothole crack,Parks,synthetic
+323,The nullah near Bomikhal has not been desilted repeatedly. Flooding is certain this monsoon.,nullah bomikhal not desilte repeatedly flood certain monsoon,Sanitation,synthetic
+324,New electricity connection applied for near Patia but not provided repeatedly.,new electricity connection apply patia not provide repeatedly,Electricity,synthetic
+325,There is frequent power cut in Sishu Bhawan Chowk for the past four days. please take immediate action.,frequent power cut sishu bhawan chowk past day,Electricity,synthetic
+326,Road rage incidents near Unit-4 junction are increasing due to no signals.,road rage incident unit junction increase no signal,Traffic,synthetic
+327,No signal board at the intersection near Puri. Drivers don't know right of way.,no signal board intersection puri driver don know right way,Traffic,synthetic
+328,Park near Khandagiri has no dustbins and waste is littered everywhere.,park khandagiri no dustbin waste litter,Parks,synthetic
+329,The water supply in Khandagiri has been disrupted still not fixed. please take immediate action.,water supply khandagiri disrupt not fix,Water,synthetic
+330,Overhead electric cable near Rourkela is sagging very low. Vehicles might touch it.,overhead electric cable rourkela sag low vehicle touch,Electricity,synthetic
+331,Road maintenance work near Unit-4 was started but left incomplete since last week.,road maintenance work unit start leave incomplete week,Roads,synthetic
+332,Road maintenance work near Sishu Bhawan Chowk was started but left incomplete for over a week.,road maintenance work sishu bhawan chowk start leave incomplete week,Roads,synthetic
+333,Open drainage near Dumduma is breeding mosquitoes. Residents are falling sick.,open drainage dumduma breed mosquito resident fall sick,Sanitation,synthetic
+334,The traffic signal near Sambalpur is not working again and again. Huge traffic jams forming.,traffic signal sambalpur not work huge traffic jam form,Traffic,synthetic
+335,The electric pole near Cuttack has a loose wire hanging dangerously.,electric pole cuttack loose wire hang dangerously,Electricity,synthetic
+336,Community water tap near Bomikhal has been broken again and again. motorists are in danger.,community water tap bomikhal break motorist danger,Water,synthetic
+337,Water pressure is very low in Jaydev Vihar square. We are not getting enough water.,water pressure low jaydev vihar square not get water,Water,synthetic
+338,Community water tap near Cuttack has been broken for two weeks now. children are at risk.,community water tap cuttack break week child risk,Water,synthetic
+339,Park in Unit-4 has an open drainage ditch inside it which is dangerous for children.,park unit open drainage ditch inside dangerous child,Parks,synthetic
+340,The road divider near Patia is broken and there is no barricading. children are at risk.,road divider patia break no barricading child risk,Roads,synthetic
+341,The park in Unit-6 has broken benches and no lights. Unsafe at night.,park unit break bench no light unsafe night,Parks,synthetic
+342,The nullah near Brahmapur has not been desilted repeatedly. Flooding is certain this monsoon.,nullah brahmapur not desilte repeatedly flood certain monsoon,Sanitation,synthetic
+343,Water coming from the taps in Dumduma is brown and unfit for drinking. urgent attention required.,water come tap dumduma brown unfit drink urgent attention require,Water,synthetic
+344,The service road near Chandrasekharpur is completely damaged with loose gravel everywhere.,service road chandrasekharpur completely damage loose gravel,Roads,synthetic
+345,Construction debris has been dumped on the road near Aiginia for more than a week. please take immediate action.,construction debris dump road aiginia week,Roads,synthetic
+346,Potholes on the road to Brahmapur have still not been filled repeatedly. please take immediate action.,pothole road brahmapur not fill repeatedly,Roads,synthetic
+347,Three-wheeler goods vehicles parked on footpath near Puri blocking pedestrians.,wheeler good vehicle park footpath puri block pedestrian,Traffic,synthetic
+348,The garbage van has not visited Puri for more than a week. Waste is piling up on the road.,garbage van not visit puri week waste pile road,Sanitation,synthetic
+349,The park lights in Unit-6 have been broken since last month. Park is unsafe after dark.,park light unit break month park unsafe dark,Parks,synthetic
+350,Road near Khandagiri gets flooded every time it rains due to poor surface drainage.,road khandagiri get flood time rain poor surface drainage,Roads,synthetic
+351,"A water pipeline near Saheed Nagar is leaking heavily, causing road damage too.",water pipeline saheed nagar leak heavily cause road damage,Water,synthetic
+352,Water pressure is very low in Master Canteen Square lane. We are not getting enough water.,water pressure low master canteen square lane not get water,Water,synthetic
+353,School zone near Unit-4 has no speed limits enforced. Children are in danger. motorists are in danger.,school zone unit no speed limit enforce child danger motorist danger,Traffic,synthetic
+354,Power supply restored after 8 hours but now going off again near Rourkela. daily commuters are suffering.,power supply restore hour go rourkela daily commuter suffer,Electricity,synthetic
+355,The overhead water tank in Cuttack is leaking and overflowing on the road.,overhead water tank cuttack leak overflow road,Water,synthetic
+356,Illegal parking near Aiginia marg is blocking traffic flow completely.,illegal parking aiginia marg block traffic flow completely,Traffic,synthetic
+357,No signal board at the intersection near Acharya Vihar. Drivers don't know right of way.,no signal board intersection acharya vihar driver don know right way,Traffic,synthetic
+358,Road near Chandrasekharpur has been dug for cable laying and not repaired for two weeks now. this needs to be fixed immediately.,road chandrasekharpur dig cable lay not repair week need fix immediately,Roads,synthetic
+359,Supply water in Unit-4 has high chlorine smell. Not suitable for cooking. it is a public safety hazard.,supply water unit high chlorine smell not suitable cook public safety hazard,Water,synthetic
+360,U-turn restriction sign near Acharya Vihar has fallen down even after multiple complaints. Causing confusion.,turn restriction sign acharya vihar fall multiple complaint cause confusion,Traffic,synthetic
+361,Drain near Patia is choked with plastic waste. Sewage spilling on footpath.,drain patia choke plastic waste sewage spill footpath,Sanitation,synthetic
+362,Garbage collection truck near Puri is coming once a week instead of daily.,garbage collection truck puri come week instead daily,Sanitation,synthetic
+363,Garbage dumping near Unit-6 is happening illegally and nobody is stopping it.,garbage dumping unit happen illegally stop,Sanitation,synthetic
+364,Sewage is mixing with drinking water supply in Master Canteen Square. Very serious. we have been suffering daily.,sewage mix drinking water supply master canteen square suffer daily,Water,synthetic
+365,The drain near Cuttack is overflowing with sewage again and again. the situation is getting worse daily.,drain cuttack overflow sewage situation get bad daily,Sanitation,synthetic
+366,Road rage incidents near Vani Vihar junction are increasing due to no signals.,road rage incident vani vihar junction increase no signal,Traffic,synthetic
+367,Road near Vani Vihar gets flooded every time it rains due to poor surface drainage.,road vani vihar get flood time rain poor surface drainage,Roads,synthetic
+368,Garbage collection truck near Bhubaneswar Old Town is coming once a week instead of daily.,garbage collection truck bhubaneswar old town come week instead daily,Sanitation,synthetic
+369,Trees in Brahmapur park have not been trimmed since Monday. Branches are a hazard.,tree brahmapur park not trim monday branch hazard,Parks,synthetic
+370,Night time racing of vehicles near Unit-4 is a serious safety issue. there could be a serious accident.,night time racing vehicle unit safety issue accident,Traffic,synthetic
+371,Supply water in Unit-6 has high chlorine smell. Not suitable for cooking. urgent attention required.,supply water unit high chlorine smell not suitable cook urgent attention require,Water,synthetic
+372,Park near Sambalpur has no dustbins and waste is littered everywhere.,park sambalpur no dustbin waste litter,Parks,synthetic
+373,Heavy vehicles are parked on the main road near Master Canteen Square since Monday causing congestion.,heavy vehicle park main road master canteen square monday cause congestion,Traffic,synthetic
+374,There is no traffic control at Unit-6 during peak hours. Chaos every morning.,no traffic control unit peak hour chaos morning,Traffic,synthetic
+375,The pedestrian signal near Saheed Nagar is not working since Monday. Pedestrians at risk.,pedestrian signal saheed nagar not work monday pedestrian risk,Traffic,synthetic
+376,Concrete road near Khandagiri has developed cracks and is sinking in some areas.,concrete road khandagiri develop crack sink area,Roads,synthetic
+377,Loose garbage and plastic near Kalinga Nagar is blocking the roadside drain.,loose garbage plastic kalinga nagar block roadside drain,Sanitation,synthetic
+378,Encroachment on the park in Unit-4 is reducing the open space for residents.,encroachment park unit reduce open space resident,Parks,synthetic
+379,Waste dumped near Tamando flyover is attracting stray dogs and creating hazard.,waste dump tamando flyover attract stray dog create hazard,Sanitation,synthetic
+380,The electric pole near Sishu Bhawan Chowk has a loose wire hanging dangerously.,electric pole sishu bhawan chowk loose wire hang dangerously,Electricity,synthetic
+381,Encroachment on the park in Vani Vihar is reducing the open space for residents.,encroachment park vani vihar reduce open space resident,Parks,synthetic
+382,The road divider near Brahmapur is broken and there is no barricading. daily commuters are suffering.,road divider brahmapur break no barricade daily commuter suffer,Roads,synthetic
+383,The road near Master Canteen Square is full of potholes making two wheelers prone to accidents.,road master canteen square pothole make wheeler prone accident,Roads,synthetic
+384,Speed breaker near Cuttack has no markings and is causing accidents.,speed breaker cuttack no marking cause accident,Roads,synthetic
+385,The garden near Saheed Nagar has dead plants that have not been replaced since last week.,garden saheed nagar dead plant not replace week,Parks,synthetic
+386,The main arterial road near Unit-4 has not been repaired repeatedly. children are at risk.,main arterial road unit not repair repeatedly child risk,Roads,synthetic
+387,The water meter in our building near Khandagiri is faulty and showing excess usage.,water meter building khandagiri faulty show excess usage,Water,synthetic
+388,Potholes on the road to Rourkela have still not been filled for more than a week. elderly people are affected.,pothole road rourkela not fill week elderly people affect,Roads,synthetic
+389,Footpath near Unit-4 occupied by vendors forcing pedestrians on the road.,footpath unit occupy vendor force pedestrian road,Traffic,synthetic
+390,There is frequent power cut in Rourkela still not fixed. motorists are in danger.,frequent power cut rourkela not fix motorist danger,Electricity,synthetic
+391,The bridge near Acharya Vihar has damaged railings. It is very unsafe.,bridge acharya vihar damage railing unsafe,Roads,synthetic
+392,The road near Tamando is full of potholes making two wheelers prone to accidents.,road tamando pothole make wheeler prone accident,Roads,synthetic
+393,Electric pole in Cuttack colony is leaning and might fall during rain. it is causing inconvenience to residents.,electric pole cuttack colony lean fall rain cause inconvenience resident,Electricity,synthetic
+394,Water pipe near Vani Vihar burst during road construction and has not been repaired.,water pipe vani vihar burst road construction not repair,Water,synthetic
+395,Garbage dumping near Acharya Vihar is happening illegally and nobody is stopping it.,garbage dumping acharya vihar happen illegally stop,Sanitation,synthetic
+396,The traffic signal at Saheed Nagar crossroad has been dark since last month. Manual control needed.,traffic signal saheed nagar crossroad dark month manual control need,Traffic,synthetic
+397,The water meter in our building near Bhubaneswar Old Town is faulty and showing excess usage.,water meter building bhubaneswar old town faulty show excess usage,Water,synthetic
+398,Footpath near Bhubaneswar Old Town occupied by vendors forcing pedestrians on the road.,footpath bhubaneswar old town occupy vendor force pedestrian road,Traffic,synthetic
+399,Three-wheeler goods vehicles parked on footpath near IRC Village blocking pedestrians.,wheeler good vehicle park footpath irc village block pedestrian,Traffic,synthetic
+400,The nullah near Cuttack has not been desilted again and again. Flooding is certain this monsoon.,nullah cuttack not desilte flooding certain monsoon,Sanitation,synthetic
+401,There is no traffic signal at the junction near Bhubaneswar Old Town. Accidents are happening.,no traffic signal junction bhubaneswar old town accident happen,Traffic,synthetic
+402,Speed breaker near Unit-6 has no markings and is causing accidents.,speed breaker unit no marking cause accident,Roads,synthetic
+403,No road marking or lane discipline near Vani Vihar. Total traffic disorder.,no road mark lane discipline vani vihar total traffic disorder,Traffic,synthetic
+404,Open defecation is happening near the park in Patia every morning.,open defecation happen park patia morning,Sanitation,synthetic
+405,The community dustbin near Chandrasekharpur is overflowing for more than a week. the whole locality is inconvenienced.,community dustbin chandrasekharpur overflow week locality inconvenience,Sanitation,synthetic
+406,The garden near Unit-6 has dead plants that have not been replaced since Monday.,garden unit dead plant not replace monday,Parks,synthetic
+407,Traffic signal timing near Jaydev Vihar is wrong. Green for 5 seconds is too short.,traffic signal timing jaydev vihar wrong green second short,Traffic,synthetic
+408,Power supply restored after 8 hours but now going off again near Kalinga Nagar. it is causing inconvenience to residents.,power supply restore hour go kalinga nagar cause inconvenience resident,Electricity,synthetic
+409,Open defecation is happening near the park in Unit-4 every morning.,open defecation happen park unit morning,Sanitation,synthetic
+410,"A water pipeline near Patia is leaking heavily, causing road damage too.",water pipeline patia leak heavily cause road damage,Water,synthetic
+411,Streetlights on Nayapalli chowk have been out repeatedly. Area is unsafe at night.,streetlight nayapalli chowk repeatedly unsafe night,Electricity,synthetic
+412,Water coming from the taps in Cuttack is brown and unfit for drinking. daily commuters are suffering.,water come tap cuttack brown unfit drink daily commuter suffer,Water,synthetic
+413,Potholes on the road to Dumduma have still not been filled again and again. the situation is getting worse daily.,pothole road dumduma not fill situation get bad daily,Roads,synthetic
+414,Garbage dumping near Khandagiri is happening illegally and nobody is stopping it.,garbage dumping khandagiri happen illegally stop,Sanitation,synthetic
+415,The park near Puri has broken swings and slides. Children are getting injured.,park puri break swing slide child get injure,Parks,synthetic
+416,There is no traffic control at Sishu Bhawan Chowk during peak hours. Chaos every morning.,no traffic control sishu bhawan chowk peak hour chaos morning,Traffic,synthetic
+417,The road near Aiginia has a large pothole for the past four days. elderly people are affected.,road aiginia large pothole past day elderly people affect,Roads,synthetic
+418,Garbage collection truck near Nayapalli is coming once a week instead of daily.,garbage collection truck nayapalli come week instead daily,Sanitation,synthetic
+419,The electricity pole near Bomikhal has tilted and could fall any moment. daily commuters are suffering.,electricity pole bomikhal tilt fall moment daily commuter suffer,Electricity,synthetic
+420,Frequent voltage fluctuations in Khandagiri are damaging our appliances since last week.,frequent voltage fluctuation khandagiri damage appliance week,Electricity,synthetic
+421,Overgrown bushes in Vani Vihar park are becoming shelter for antisocial elements.,overgrown bush vani vihar park shelter antisocial element,Parks,synthetic
+422,The sewer line near Unit-4 is blocked causing overflow on the main road. this needs to be fixed immediately.,sewer line unit block cause overflow main road need fix immediately,Sanitation,synthetic
+423,No drinking water facility in Master Canteen Square park. Residents request a water tap.,no drinking water facility master canteen square park resident water tap,Parks,synthetic
+424,Electricity transformer near Sambalpur has broken down even after multiple complaints. Whole street affected.,electricity transformer sambalpur break multiple complaint street affect,Electricity,synthetic
+425,Sewer overflow from the drain near Tamando is entering residential buildings.,sewer overflow drain tamando enter residential building,Sanitation,synthetic
+426,Three-wheeler goods vehicles parked on footpath near Sishu Bhawan Chowk blocking pedestrians.,wheeler good vehicle park footpath sishu bhawan chowk block pedestrian,Traffic,synthetic
+427,The underground water pipeline near Nayapalli is broken and water is gushing out.,underground water pipeline nayapalli break water gush,Water,synthetic
+428,There is a large pile of garbage near Aiginia that has not been cleared still not fixed.,large pile garbage aiginia not clear not fix,Sanitation,synthetic
+429,Open defecation is happening near the park in Bomikhal every morning.,open defecation happen park bomikhal morning,Sanitation,synthetic
+430,The overhead water tank in Cuttack is leaking and overflowing on the road.,overhead water tank cuttack leak overflow road,Water,synthetic
+431,Bus stop near Master Canteen Square has no shelter. Buses also stop in middle of road causing jam.,bus stop master canteen square no shelter bus stop middle road cause jam,Traffic,synthetic
+432,The garbage van has not visited Master Canteen Square for over a week. Waste is piling up on the road.,garbage van not visit master canteen square week waste pile road,Sanitation,synthetic
+433,The traffic signal at Nayapalli crossroad has been dark for over a week. Manual control needed.,traffic signal nayapalli crossroad dark week manual control need,Traffic,synthetic
+434,Public toilet near Bomikhal is broken and overflowing again and again. daily commuters are suffering.,public toilet bomikhal break overflow daily commuter suffer,Sanitation,synthetic
+435,Dirty and foul-smelling water is coming from taps in Unit-6 again and again. it is a public safety hazard.,dirty foul smelling water come tap unit public safety hazard,Water,synthetic
+436,High tension wire near Bhubaneswar Old Town is passing very low over the road. Very dangerous.,high tension wire bhubaneswar old town pass low road dangerous,Electricity,synthetic
+437,The park gate near Unit-6 is broken and park is not being locked at night.,park gate unit break park not lock night,Parks,synthetic
+438,"The signal near Dumduma has been blinking yellow for three days, it is chaos at peak hour.",signal dumduma blink yellow day chaos peak hour,Traffic,synthetic
+439,Footpath near Bhubaneswar Old Town school has broken slabs which are dangerous for children.,footpath bhubaneswar old town school break slab dangerous child,Roads,synthetic
+440,Water supply has been cut near Vani Vihar without any prior notice since last month. this needs to be fixed immediately.,water supply cut vani vihar prior notice month need fix immediately,Water,synthetic
+441,No drinking water in Jaydev Vihar colony for over a week. Residents are buying water at high cost.,no drinking water jaydev vihar colony week resident buy water high cost,Water,synthetic
+442,The road near Brahmapur has a large pothole since last week. this needs to be fixed immediately.,road brahmapur large pothole week need fix immediately,Roads,synthetic
+443,Streetlights on Tamando square have been out since last week. Area is unsafe at night.,streetlight tamando square week unsafe night,Electricity,synthetic
+444,Dead animal carcass lying on the road near Aiginia for more than a week. Extremely unhygienic.,dead animal carcass lie road aiginia week extremely unhygienic,Sanitation,synthetic
+445,The main water supply valve near Sambalpur is stuck and causing low pressure issues.,main water supply valve sambalpur stuck cause low pressure issue,Water,synthetic
+446,The underground water pipeline near Jaydev Vihar is broken and water is gushing out.,underground water pipeline jaydev vihar break water gush,Water,synthetic
+447,Water pipeline near Sishu Bhawan Chowk has developed multiple leaks causing waterlogging.,water pipeline sishu bhawan chowk develop multiple leak cause waterlogging,Water,synthetic
+448,Garbage collection workers have not come to Cuttack even after multiple complaints. Rats are appearing.,garbage collection worker not come cuttack multiple complaint rat appear,Sanitation,synthetic
+449,Potholes on the road to Bomikhal have still not been filled for more than a week. the whole locality is inconvenienced.,pothole road bomikhal not fill week locality inconvenience,Roads,synthetic
+450,Wrong side driving near Master Canteen Square is rampant. No enforcement whatsoever.,wrong drive master canteen square rampant no enforcement whatsoever,Traffic,synthetic
+451,The sewer line near Master Canteen Square is blocked causing overflow on the main road. children are at risk.,sewer line master canteen square block cause overflow main road child risk,Sanitation,synthetic
+452,High tension wire near Aiginia is passing very low over the road. Very dangerous.,high tension wire aiginia pass low road dangerous,Electricity,synthetic
+453,Footpath near Kalinga Nagar occupied by vendors forcing pedestrians on the road.,footpath kalinga nagar occupy vendor force pedestrian road,Traffic,synthetic
+454,Heavy potholes on Brahmapur marg are causing accidents even after multiple complaints.,heavy pothole brahmapur marg cause accident multiple complaint,Roads,synthetic
+455,Auto rickshaws are blocking the entire road near Chandrasekharpur marg every evening.,auto rickshaw block entire road chandrasekharpur marg evening,Traffic,synthetic
+456,New electricity connection applied for near Bomikhal but not provided for three days.,new electricity connection apply bomikhal not provide day,Electricity,synthetic
+457,Dead animal carcass lying on the road near Barmunda since Monday. Extremely unhygienic.,dead animal carcass lie road barmunda monday extremely unhygienic,Sanitation,synthetic
+458,The streetlight near Patia has been not working again and again. this needs to be fixed immediately.,streetlight patia not work need fix immediately,Electricity,synthetic
+459,Joggers track in Sambalpur park is full of potholes and cracks.,jogger track sambalpur park pothole crack,Parks,synthetic
+460,Sewage drain near Bomikhal is blocked and water is overflowing on the road. please take immediate action.,sewage drain bomikhal block water overflow road,Sanitation,synthetic
+461,Dirty and foul-smelling water is coming from taps in Khandagiri for more than a week. children are at risk.,dirty foul smelling water come tap khandagiri week child risk,Water,synthetic
+462,Power supply fluctuates heavily near Dumduma causing damage to electronic devices.,power supply fluctuate heavily dumduma cause damage electronic device,Electricity,synthetic
+463,Garbage near Vani Vihar nagar has been burning for two days. Air is polluted.,garbage vani vihar nagar burn day air pollute,Sanitation,synthetic
+464,No water supply in our area near Jaydev Vihar since the maintenance work started again and again.,no water supply jaydev vihar maintenance work start,Water,synthetic
+465,The main arterial road near Puri has not been repaired since Monday. children are at risk.,main arterial road puri not repair monday child risk,Roads,synthetic
+466,Road cutting work was done near Chandrasekharpur but it has not been repaired again and again.,road cutting work chandrasekharpur not repair,Roads,synthetic
+467,The fountain in Sishu Bhawan Chowk park has not been working for two weeks now. It is a public attraction.,fountain sishu bhawan chowk park not work week public attraction,Parks,synthetic
+468,There is a live electric wire lying on the road near Unit-4. Very dangerous. urgent attention required.,live electric wire lie road unit dangerous urgent attention require,Electricity,synthetic
+469,Concrete road near Rourkela has developed cracks and is sinking in some areas.,concrete road rourkela develop crack sink area,Roads,synthetic
+470,Construction debris has been dumped on the road near Aiginia repeatedly. motorists are in danger.,construction debris dump road aiginia repeatedly motorist danger,Roads,synthetic
+471,The road from Nayapalli to the main highway is in terrible condition.,road nayapalli main highway terrible condition,Roads,synthetic
+472,We have not received water supply in Acharya Vihar for over a week. daily commuters are suffering.,not receive water supply acharya vihar week daily commuter suffer,Water,synthetic
+473,The nullah near Bhubaneswar Old Town has not been desilted for two weeks now. Flooding is certain this monsoon.,nullah bhubaneswar old town not desilte week flood certain monsoon,Sanitation,synthetic
+474,There is a huge crater on the main road near Patia for three days. the situation is getting worse daily.,huge crater main road patia day situation get bad daily,Roads,synthetic
+475,Garbage near Puri nagar has been burning for two days. Air is polluted.,garbage puri nagar burn day air pollute,Sanitation,synthetic
+476,Power supply restored after 8 hours but now going off again near Saheed Nagar. elderly people are affected.,power supply restore hour go saheed nagar elderly people affect,Electricity,synthetic
+477,The countdown timer on traffic signal near Rasulgarh is not working even after multiple complaints.,countdown timer traffic signal rasulgarh not work multiple complaint,Traffic,synthetic
+478,Drainage channel near Kalinga Nagar has not been cleaned repeatedly. Stagnant water everywhere.,drainage channel kalinga nagar not clean repeatedly stagnant water,Sanitation,synthetic
+479,Power supply fluctuates heavily near Puri causing damage to electronic devices.,power supply fluctuate heavily puri cause damage electronic device,Electricity,synthetic
+480,Dirty and foul-smelling water is coming from taps in Cuttack even after multiple complaints. the situation is getting worse daily.,dirty foul smelling water come tap cuttack multiple complaint situation get bad daily,Water,synthetic
+481,"Garbage van in Brahmapur colony is coming only every 3 days, waste is building up.",garbage van brahmapur colony come day waste build,Sanitation,synthetic
+482,There is a leaking water main near Kalinga Nagar street. Please fix urgently.,leak water main kalinga nagar street fix urgently,Water,synthetic
+483,There has been no water supply in Bomikhal since Monday. it is causing inconvenience to residents.,no water supply bomikhal monday cause inconvenience resident,Water,synthetic
+484,The road near Unit-6 is full of potholes making two wheelers prone to accidents.,road unit pothole make wheeler prone accident,Roads,synthetic
+485,Wrong side driving near Sambalpur is rampant. No enforcement whatsoever.,wrong drive sambalpur rampant no enforcement whatsoever,Traffic,synthetic
+486,The drain near Rourkela is overflowing with sewage even after multiple complaints. children are at risk.,drain rourkela overflow sewage multiple complaint child risk,Sanitation,synthetic
+487,Public toilet near IRC Village is broken and overflowing for over a week. the whole locality is inconvenienced.,public toilet irc village break overflow week locality inconvenience,Sanitation,synthetic
+488,Park near Nayapalli has a broken compound wall. Outsiders are misusing it at night.,park nayapalli break compound wall outsider misuse night,Parks,synthetic
+489,The road from Dumduma to the main highway is in terrible condition.,road dumduma main highway terrible condition,Roads,synthetic
+490,Concrete road near Brahmapur has developed cracks and is sinking in some areas.,concrete road brahmapur develop crack sink area,Roads,synthetic
+491,Sewer overflow from the drain near Brahmapur is entering residential buildings.,sewer overflow drain brahmapur enter residential building,Sanitation,synthetic
+492,Potholes on the road to Vani Vihar have still not been filled for two weeks now. it is a public safety hazard.,pothole road vani vihar not fill week public safety hazard,Roads,synthetic
+493,Frequent voltage fluctuations in Patia are damaging our appliances for the past four days.,frequent voltage fluctuation patia damage appliance past day,Electricity,synthetic
+494,There has been no water supply in Patia for three days. it is a public safety hazard.,no water supply patia day public safety hazard,Water,synthetic
+495,Garbage collection workers have not come to Khandagiri for the past four days. Rats are appearing.,garbage collection worker not come khandagiri past day rat appear,Sanitation,synthetic
+496,Loose garbage and plastic near IRC Village is blocking the roadside drain.,loose garbage plastic irc village block roadside drain,Sanitation,synthetic
+497,The park lights in Tamando have been broken for the past four days. Park is unsafe after dark.,park light tamando break past day park unsafe dark,Parks,synthetic
+498,The electricity distribution box near Master Canteen Square is exposed and unlocked. Danger risk.,electricity distribution box master canteen square expose unlocked danger risk,Electricity,synthetic
+499,The overhead water tank in Rasulgarh is leaking and overflowing on the road.,overhead water tank rasulgarh leak overflow road,Water,synthetic
+500,Garbage near Rourkela chowk has been burning for two days. Air is polluted.,garbage rourkela chowk burn day air pollute,Sanitation,synthetic
+501,No zebra crossing near Bhubaneswar Old Town school. Children risk their life daily. urgent attention required.,no zebra crossing bhubaneswar old town school child risk life daily urgent attention require,Traffic,synthetic
+502,Drainage channel near Jaydev Vihar has not been cleaned for more than a week. Stagnant water everywhere.,drainage channel jaydev vihar not clean week stagnant water,Sanitation,synthetic
+503,The park near Bhubaneswar Old Town has not been maintained for more than a week. Grass is overgrown.,park bhubaneswar old town not maintain week grass overgrow,Parks,synthetic
+504,Sewage is mixing with drinking water supply in Acharya Vihar. Very serious. children are at risk.,sewage mix drinking water supply acharya vihar child risk,Water,synthetic
+505,The electricity distribution box near Unit-4 is exposed and unlocked. Danger risk.,electricity distribution box unit expose unlocked danger risk,Electricity,synthetic
+506,Garbage dumping near Tamando is happening illegally and nobody is stopping it.,garbage dumping tamando happen illegally stop,Sanitation,synthetic
+507,Water coming from the taps in Sambalpur is brown and unfit for drinking. urgent attention required.,water come tap sambalpur brown unfit drink urgent attention require,Water,synthetic
+508,Heavy potholes on Bomikhal nagar are causing accidents for two weeks now.,heavy pothole bomikhal nagar cause accident week,Roads,synthetic
+509,Garbage dumping near Aiginia is happening illegally and nobody is stopping it.,garbage dumping aiginia happen illegally stop,Sanitation,synthetic
+510,Joggers track in Rasulgarh park is full of potholes and cracks.,jogger track rasulgarh park pothole crack,Parks,synthetic
+511,Waste dumped near Vani Vihar flyover is attracting stray dogs and creating hazard.,waste dump vani vihar flyover attract stray dog create hazard,Sanitation,synthetic
+512,The traffic signal near Jaydev Vihar has been blinking yellow for over a week. children are at risk.,traffic signal jaydev vihar blink yellow week child risk,Traffic,synthetic
+513,Park near IRC Village has a broken compound wall. Outsiders are misusing it at night.,park irc village break compound wall outsider misuse night,Parks,synthetic
+514,The road near Nayapalli is completely dark at night and full of potholes. we have been suffering daily.,road nayapalli completely dark night pothole suffer daily,Roads,synthetic
+515,Dead animal carcass lying on the road near Unit-6 for three days. Extremely unhygienic.,dead animal carcass lie road unit day extremely unhygienic,Sanitation,synthetic
+516,The street near Acharya Vihar is completely broken with multiple potholes. motorists are in danger.,street acharya vihar completely break multiple pothole motorist danger,Roads,synthetic
+517,The road near Aiginia is completely dark at night and full of potholes. elderly people are affected.,road aiginia completely dark night pothole elderly people affect,Roads,synthetic
+518,Sewage is mixing with drinking water supply in Unit-6. Very serious. please take immediate action.,sewage mix drinking water supply unit,Water,synthetic
+519,Old water pipes in IRC Village are rusting and contaminating drinking water supply.,old water pipe irc village rusting contaminate drink water supply,Water,synthetic
+520,Garbage collection truck near Sishu Bhawan Chowk is coming once a week instead of daily.,garbage collection truck sishu bhawan chowk come week instead daily,Sanitation,synthetic
+521,Public toilet near Sambalpur is broken and overflowing for the past four days. it is causing inconvenience to residents.,public toilet sambalpur break overflow past day cause inconvenience resident,Sanitation,synthetic
+522,Overhead electric cable near Unit-4 is sagging very low. Vehicles might touch it.,overhead electric cable unit sag low vehicle touch,Electricity,synthetic
+523,Water coming from the taps in Bomikhal is brown and unfit for drinking. urgent attention required.,water come tap bomikhal brown unfit drink urgent attention require,Water,synthetic
+524,Road maintenance work near Saheed Nagar was started but left incomplete for two weeks now.,road maintenance work saheed nagar start leave incomplete week,Roads,synthetic
+525,The fountain in Puri park has not been working repeatedly. It is a public attraction.,fountain puri park not work repeatedly public attraction,Parks,synthetic
+526,The garden near Vani Vihar has dead plants that have not been replaced even after multiple complaints.,garden vani vihar dead plant not replace multiple complaint,Parks,synthetic
+527,Power supply fluctuates heavily near Barmunda causing damage to electronic devices.,power supply fluctuate heavily barmunda cause damage electronic device,Electricity,synthetic
+528,Broken street light near Jaydev Vihar school is causing safety concern for students.,broken street light jaydev vihar school cause safety concern student,Electricity,synthetic
+529,The transformer near Patia has been making loud noise and sparking even after multiple complaints.,transformer patia make loud noise spark multiple complaint,Electricity,synthetic
+530,Water pipeline near Dumduma has developed multiple leaks causing waterlogging.,water pipeline dumduma develop multiple leak cause waterlogging,Water,synthetic
+531,Power supply fluctuates heavily near Tamando causing damage to electronic devices.,power supply fluctuate heavily tamando causing damage electronic device,Electricity,synthetic
+532,Construction debris has been dumped on the road near Aiginia since last month. there could be a serious accident.,construction debris dump road aiginia month accident,Roads,synthetic
+533,Open garbage dumping is happening near Saheed Nagar road. Foul smell everywhere.,open garbage dumping happen sahee nagar road foul smell,Sanitation,synthetic
+534,Garbage near Puri colony has been burning for two days. Air is polluted.,garbage puri colony burn day air pollute,Sanitation,synthetic
+535,Loose garbage and plastic near Nayapalli is blocking the roadside drain.,loose garbage plastic nayapalli block roadside drain,Sanitation,synthetic
+536,New electricity connection applied for near Rasulgarh but not provided since last week.,new electricity connection apply rasulgarh not provide week,Electricity,synthetic
+537,The electricity distribution box near Jaydev Vihar is exposed and unlocked. Danger risk.,electricity distribution box jaydev vihar expose unlocked danger risk,Electricity,synthetic
+538,The road in Barmunda colony has completely broken down after the monsoon. the situation is getting worse daily.,road barmunda colony completely break monsoon situation get bad daily,Roads,synthetic
+539,Sewage drain near Tamando is blocked and water is overflowing on the road. the whole locality is inconvenienced.,sewage drain tamando block water overflow road locality inconvenience,Sanitation,synthetic
+540,The chowk near Sishu Bhawan Chowk is completely broken with multiple potholes. it is causing inconvenience to residents.,chowk sishu bhawan chowk completely break multiple pothole cause inconvenience resident,Roads,synthetic
+541,There has been no water supply in Unit-4 since last month. the situation is getting worse daily.,no water supply unit month situation get bad daily,Water,synthetic
+542,"The signal near Nayapalli has been blinking yellow for three days, it is chaos at peak hour.",signal nayapalli blink yellow day chaos peak hour,Traffic,synthetic
+543,Water pressure is very low in Patia colony. We are not getting enough water.,water pressure low patia colony not get water,Water,synthetic
+544,The park in Brahmapur has broken benches and no lights. Unsafe at night.,park brahmapur break bench no light unsafe night,Parks,synthetic
+545,Road near Unit-6 gets flooded every time it rains due to poor surface drainage.,road unit get flood time rain poor surface drainage,Roads,synthetic
+546,Overgrown bushes in Aiginia park are becoming shelter for antisocial elements.,overgrown bush aiginia park shelter antisocial element,Parks,synthetic
+547,The park lights in Saheed Nagar have been broken for more than a week. Park is unsafe after dark.,park light saheed nagar break week park unsafe dark,Parks,synthetic
+548,Public toilet near Nayapalli is broken and overflowing since Monday. the whole locality is inconvenienced.,public toilet nayapalli break overflowing monday locality inconvenience,Sanitation,synthetic
+549,Joggers track in Kalinga Nagar park is full of potholes and cracks.,jogger track kalinga nagar park pothole crack,Parks,synthetic
+550,There is a live electric wire lying on the road near Saheed Nagar. Very dangerous. daily commuters are suffering.,live electric wire lie road saheed nagar dangerous daily commuter suffer,Electricity,synthetic
+551,There is a huge crater on the main road near Rasulgarh for two weeks now. elderly people are affected.,huge crater main road rasulgarh week elderly people affect,Roads,synthetic
+552,Electric pole in Tamando colony is leaning and might fall during rain. we have been suffering daily.,electric pole tamando colony lean fall rain suffer daily,Electricity,synthetic
+553,Broken road near Kalinga Nagar is flooded with water during rains. elderly people are affected.,break road kalinga nagar flood water rain elderly people affect,Roads,synthetic
+554,The colony near Jaydev Vihar is completely broken with multiple potholes. the situation is getting worse daily.,colony jaydev vihar completely break multiple pothole situation get bad daily,Roads,synthetic
+555,The traffic signal at Rourkela crossroad has been dark for more than a week. Manual control needed.,traffic signal rourkela crossroad dark week manual control need,Traffic,synthetic
+556,The electricity distribution box near Khandagiri is exposed and unlocked. Danger risk.,electricity distribution box khandagiri expose unlocked danger risk,Electricity,synthetic
+557,The footpath on Aiginia square is broken and dangerous for pedestrians.,footpath aiginia square break dangerous pedestrian,Roads,synthetic
+558,Concrete road near Chandrasekharpur has developed cracks and is sinking in some areas.,concrete road chandrasekharpur develop crack sink area,Roads,synthetic
+559,Road rage incidents near IRC Village junction are increasing due to no signals.,road rage incident irc village junction increase no signal,Traffic,synthetic
+560,Water pipe near Saheed Nagar burst during road construction and has not been repaired.,water pipe saheed nagar burst road construction not repair,Water,synthetic
+561,Dirty and foul-smelling water is coming from taps in Dumduma again and again. elderly people are affected.,dirty foul smelling water come tap dumduma elderly people affect,Water,synthetic
+562,The traffic signal near Chandrasekharpur has been blinking yellow even after multiple complaints. the situation is getting worse daily.,traffic signal chandrasekharpur blink yellow multiple complaint situation get bad daily,Traffic,synthetic
+563,Garbage collection truck near Brahmapur is coming once a week instead of daily.,garbage collection truck brahmapur come week instead daily,Sanitation,synthetic
+564,Electricity transformer near Sambalpur has broken down since last week. Whole street affected.,electricity transformer sambalpur break week street affect,Electricity,synthetic
+565,"A water pipeline near IRC Village is leaking heavily, causing road damage too.",water pipeline irc village leak heavily cause road damage,Water,synthetic
+566,There is a leaking water main near Rourkela colony. Please fix urgently.,leak water main rourkela colony fix urgently,Water,synthetic
+567,Night time racing of vehicles near Cuttack is a serious safety issue. children are at risk.,night time racing vehicle cuttack safety issue child risk,Traffic,synthetic
+568,There is no traffic signal at the junction near Dumduma. Accidents are happening.,no traffic signal junction dumduma accident happen,Traffic,synthetic
+569,The road near Saheed Nagar is full of potholes making two wheelers prone to accidents.,road saheed nagar pothole make wheeler prone accident,Roads,synthetic
+570,Road dividers on Jaydev Vihar nagar are broken and posing danger to motorists.,road divider jaydev vihar nagar break pose danger motorist,Roads,synthetic
+571,Power supply restored after 8 hours but now going off again near Master Canteen Square. children are at risk.,power supply restore hour go master canteen square child risk,Electricity,synthetic
+572,No drinking water in Chandrasekharpur colony for two weeks now. Residents are buying water at high cost.,no drinking water chandrasekharpur colony week resident buy water high cost,Water,synthetic
+573,High tension wire near Tamando is passing very low over the road. Very dangerous.,high tension wire tamando pass low road dangerous,Electricity,synthetic
+574,Speed breaker near Bhubaneswar Old Town has no markings and is causing accidents.,speed breaker bhubaneswar old town no marking cause accident,Roads,synthetic
+575,Garbage collection workers have not come to Unit-4 for two weeks now. Rats are appearing.,garbage collection worker not come unit week rat appear,Sanitation,synthetic
+576,There is a live electric wire lying on the road near Dumduma. Very dangerous. motorists are in danger.,live electric wire lie road dumduma dangerous motorist danger,Electricity,synthetic
+577,The main arterial road near Tamando has not been repaired since last month. it is causing inconvenience to residents.,main arterial road tamando not repair month cause inconvenience resident,Roads,synthetic
+578,"Garbage van in Rourkela colony is coming only every 3 days, waste is building up.",garbage van rourkela colony come day waste build,Sanitation,synthetic
+579,Heavy potholes on Sambalpur nagar are causing accidents for over a week.,heavy pothole sambalpur nagar cause accident week,Roads,synthetic
+580,Speed breaker near Master Canteen Square has no markings and is causing accidents.,speed breaker master canteen square no marking cause accident,Roads,synthetic
+581,Bus stop near Sishu Bhawan Chowk has no shelter. Buses also stop in middle of road causing jam.,bus stop sishu bhawan chowk no shelter bus stop middle road cause jam,Traffic,synthetic
+582,Water pipeline near Puri has developed multiple leaks causing waterlogging.,water pipeline puri develop multiple leak cause waterlogging,Water,synthetic
+583,Electric pole in Vani Vihar colony is leaning and might fall during rain. there could be a serious accident.,electric pole vani vihar colony lean fall rain accident,Electricity,synthetic
+584,Open drainage near Puri is breeding mosquitoes. Residents are falling sick.,open drainage puri breed mosquito resident fall sick,Sanitation,synthetic
+585,Concrete road near Saheed Nagar has developed cracks and is sinking in some areas.,concrete road saheed nagar develop crack sink area,Roads,synthetic
+586,The overhead water tank in Kalinga Nagar is leaking and overflowing on the road.,overhead water tank kalinga nagar leak overflow road,Water,synthetic
+587,Stray dogs have occupied the park near Saheed Nagar. Children cannot play safely.,stray dog occupy park saheed nagar child not play safely,Parks,synthetic
+588,Auto rickshaws are blocking the entire road near Barmunda marg every evening.,auto rickshaw block entire road barmunda marg evening,Traffic,synthetic
+589,Bus stop near Barmunda has no shelter. Buses also stop in middle of road causing jam.,bus stop barmunda no shelter bus stop middle road cause jam,Traffic,synthetic
+590,Road near Sishu Bhawan Chowk gets flooded every time it rains due to poor surface drainage.,road sishu bhawan chowk get flood time rain poor surface drainage,Roads,synthetic
+591,Large potholes near Bhubaneswar Old Town are causing traffic diversions for the past four days.,large pothole bhubaneswar old town cause traffic diversion past day,Roads,synthetic
+592,Drain near Unit-4 is choked with plastic waste. Sewage spilling on footpath.,drain unit choke plastic waste sewage spill footpath,Sanitation,synthetic
+593,There is a leaking water main near Kalinga Nagar nagar. Please fix urgently.,leak water main kalinga nagar nagar fix urgently,Water,synthetic
+594,Water pipeline near Vani Vihar has developed multiple leaks causing waterlogging.,water pipeline vani vihar develop multiple leak cause waterlogging,Water,synthetic
+595,Garbage collection workers have not come to Vani Vihar since Monday. Rats are appearing.,garbage collection worker not come vani vihar monday rat appear,Sanitation,synthetic
+596,The park near Puri has broken swings and slides. Children are getting injured.,park puri break swing slide child get injure,Parks,synthetic
+597,The park in Saheed Nagar has broken benches and no lights. Unsafe at night.,park saheed nagar break bench no light unsafe night,Parks,synthetic
+598,Electricity transformer near Chandrasekharpur has broken down still not fixed. Whole street affected.,electricity transformer chandrasekharpur break not fix street affect,Electricity,synthetic
+599,The sewer line near Chandrasekharpur is blocked causing overflow on the main road. there could be a serious accident.,sewer line chandrasekharpur block cause overflow main road accident,Sanitation,synthetic
+600,There is a live electric wire lying on the road near Puri. Very dangerous. it is a public safety hazard.,live electric wire lie road puri dangerous public safety hazard,Electricity,synthetic
+601,Night time racing of vehicles near Tamando is a serious safety issue. urgent attention required.,night time racing vehicle tamando safety issue urgent attention require,Traffic,synthetic
+602,Speeding vehicles on Dumduma square are a constant threat. Need speed breaker.,speed vehicle dumduma square constant threat need speed breaker,Traffic,synthetic
+603,Our electricity bill near Tamando has come 3 times higher than normal without reason.,electricity bill tamando come time high normal reason,Electricity,synthetic
+604,Sewage is mixing with drinking water supply in Tamando. Very serious. there could be a serious accident.,sewage mix drinking water supply tamando accident,Water,synthetic
+605,The park near Rourkela has not been maintained for more than a week. Grass is overgrown.,park rourkela not maintain week grass overgrow,Parks,synthetic
+606,Broken street light near Master Canteen Square school is causing safety concern for students.,broken street light master canteen square school cause safety concern student,Electricity,synthetic
+607,There is frequent power cut in Cuttack even after multiple complaints. it is a public safety hazard.,frequent power cut cuttack multiple complaint public safety hazard,Electricity,synthetic
+608,The road divider near Bomikhal is broken and there is no barricading. the whole locality is inconvenienced.,road divider bomikhal break no barricading locality inconvenience,Roads,synthetic
+609,The traffic signal near Sambalpur is not working for two weeks now. Huge traffic jams forming.,traffic signal sambalpur not work week huge traffic jam form,Traffic,synthetic
+610,Concrete road near Brahmapur has developed cracks and is sinking in some areas.,concrete road brahmapur develop crack sink area,Roads,synthetic
+611,Sewage is mixing with drinking water supply in Sishu Bhawan Chowk. Very serious. there could be a serious accident.,sewage mix drinking water supply sishu bhawan chowk accident,Water,synthetic
+612,New electricity connection applied for near Unit-4 but not provided again and again.,new electricity connection apply unit not provide,Electricity,synthetic
+613,Heavy potholes on Acharya Vihar road are causing accidents again and again.,heavy pothole acharya vihar road cause accident,Roads,synthetic
+614,The park lights in Unit-6 have been broken since Monday. Park is unsafe after dark.,park light unit break monday park unsafe dark,Parks,synthetic
+615,Water pressure is very low in Dumduma chowk. We are not getting enough water.,water pressure low dumduma chowk not get water,Water,synthetic
+616,Water pipeline near Saheed Nagar has developed multiple leaks causing waterlogging.,water pipeline saheed nagar develop multiple leak cause waterlogging,Water,synthetic
+617,Potholes on the road to Unit-6 have still not been filled still not fixed. we have been suffering daily.,pothole road unit not fill not fix suffer daily,Roads,synthetic
+618,Garbage has not been collected in Unit-6 still not fixed. there could be a serious accident.,garbage not collect unit not fix accident,Sanitation,synthetic
+619,Overhead electric cable near Unit-6 is sagging very low. Vehicles might touch it.,overhead electric cable unit sag low vehicle touch,Electricity,synthetic
+620,Concrete road near Khandagiri has developed cracks and is sinking in some areas.,concrete road khandagiri develop crack sink area,Roads,synthetic
+621,There has been no water supply in Unit-6 for two weeks now. the situation is getting worse daily.,no water supply unit week situation get bad daily,Water,synthetic
+622,The electric meter box near Master Canteen Square is open and exposed to rain. Safety risk.,electric meter box master canteen square open expose rain safety risk,Electricity,synthetic
+623,Broken street light near Unit-4 school is causing safety concern for students.,broken street light unit school cause safety concern student,Electricity,synthetic
+624,We have not received water supply in Khandagiri since last month. children are at risk.,not receive water supply khandagiri month child risk,Water,synthetic
+625,Road cutting work was done near Bomikhal but it has not been repaired for over a week.,road cutting work bomikhal not repair week,Roads,synthetic
+626,No road marking or lane discipline near Master Canteen Square. Total traffic disorder.,no road mark lane discipline master canteen square total traffic disorder,Traffic,synthetic
+627,Broken road near Puri is flooded with water during rains. there could be a serious accident.,break road puri flood water rain accident,Roads,synthetic
+628,The park near Acharya Vihar has not been maintained repeatedly. Grass is overgrown.,park acharya vihar not maintain repeatedly grass overgrow,Parks,synthetic
+629,The colony near Bomikhal is completely broken with multiple potholes. urgent attention required.,colony bomikhal completely break multiple pothole urgent attention require,Roads,synthetic
+630,The park in Khandagiri has broken benches and no lights. Unsafe at night.,park khandagiri break bench no light unsafe night,Parks,synthetic
+631,The borwell near Chandrasekharpur is not working since last week. No drinking water available.,borwell chandrasekharpur not work week no drinking water available,Water,synthetic
+632,The traffic signal near Bhubaneswar Old Town is not working since last month. Huge traffic jams forming.,traffic signal bhubaneswar old town not work month huge traffic jam form,Traffic,synthetic
+633,Road rage incidents near IRC Village junction are increasing due to no signals.,road rage incident irc village junction increase no signal,Traffic,synthetic
+634,Traffic signal poles near Sishu Bhawan Chowk are damaged and wires are hanging out.,traffic signal pole sishu bhawan chowk damage wire hang,Traffic,synthetic
+635,Water pressure is very low in Unit-6 chowk. We are not getting enough water.,water pressure low unit chowk not get water,Water,synthetic
+636,Road dividers on Bhubaneswar Old Town marg are broken and posing danger to motorists.,road divider bhubaneswar old town marg break pose danger motorist,Roads,synthetic
+637,Trucks are parked illegally overnight on Bhubaneswar Old Town colony. daily commuters are suffering.,truck park illegally overnight bhubaneswar old town colony daily commuter suffer,Traffic,synthetic
+638,Power outage in Rourkela since last week. All perishable food is getting wasted.,power outage rourkela week perishable food get waste,Electricity,synthetic
+639,Public toilet near Vani Vihar is broken and overflowing for two weeks now. urgent attention required.,public toilet vani vihar break overflow week urgent attention require,Sanitation,synthetic
+640,Heavy potholes on Khandagiri marg are causing accidents even after multiple complaints.,heavy pothole khandagiri marg cause accident multiple complaint,Roads,synthetic
+641,"Vehicles are parked on both sides of the road near Bhubaneswar Old Town, blocking traffic.",vehicle park side road bhubaneswar old town block traffic,Traffic,synthetic
+642,The road near Cuttack is completely dark at night and full of potholes. urgent attention required.,road cuttack completely dark night pothole urgent attention require,Roads,synthetic
+643,Dirty and foul-smelling water is coming from taps in Nayapalli again and again. this needs to be fixed immediately.,dirty foul smelling water come tap nayapalli need fix immediately,Water,synthetic
+644,Frequent voltage fluctuations in Barmunda are damaging our appliances for the past four days.,frequent voltage fluctuation barmunda damage appliance past day,Electricity,synthetic
+645,Our electricity bill near Nayapalli has come 3 times higher than normal without reason.,electricity bill nayapalli come time high normal reason,Electricity,synthetic
+646,The traffic signal near Acharya Vihar is not working for two weeks now. Huge traffic jams forming.,traffic signal acharya vihar not work week huge traffic jam form,Traffic,synthetic
+647,Illegal parking near Jaydev Vihar marg is blocking traffic flow completely.,illegal parking jaydev vihar marg block traffic flow completely,Traffic,synthetic
+648,No drinking water in Bhubaneswar Old Town colony since Monday. Residents are buying water at high cost.,no drinking water bhubaneswar old town colony monday resident buy water high cost,Water,synthetic
+649,There is frequent power cut in Kalinga Nagar since last week. urgent attention required.,frequent power cut kalinga nagar week urgent attention require,Electricity,synthetic
+650,Night time racing of vehicles near Brahmapur is a serious safety issue. urgent attention required.,night time racing vehicle brahmapur safety issue urgent attention require,Traffic,synthetic
+651,Sewage drain near Brahmapur is blocked and water is overflowing on the road. elderly people are affected.,sewage drain brahmapur block water overflow road elderly people affect,Sanitation,synthetic
+652,Water supply has been cut near Vani Vihar without any prior notice even after multiple complaints. we have been suffering daily.,water supply cut vani vihar prior notice multiple complaint suffer daily,Water,synthetic
+653,Broken street light near Puri school is causing safety concern for students.,broken street light puri school cause safety concern student,Electricity,synthetic
+654,Sewer overflow from the drain near Chandrasekharpur is entering residential buildings.,sewer overflow drain chandrasekharpur enter residential building,Sanitation,synthetic
+655,No zebra crossing near Nayapalli school. Children risk their life daily. children are at risk.,no zebra crossing nayapalli school child risk life daily child risk,Traffic,synthetic
+656,The electric pole near Nayapalli has a loose wire hanging dangerously.,electric pole nayapalli loose wire hang dangerously,Electricity,synthetic
+657,The road from Dumduma to the main highway is in terrible condition.,road dumduma main highway terrible condition,Roads,synthetic
+658,Broken road near Bomikhal is flooded with water during rains. it is a public safety hazard.,broken road bomikhal flood water rain public safety hazard,Roads,synthetic
+659,Frequent voltage fluctuations in Bomikhal are damaging our appliances repeatedly.,frequent voltage fluctuation bomikhal damage appliance repeatedly,Electricity,synthetic
+660,Water supply timings in Vani Vihar are erratic. We never know when water will come.,water supply timing vani vihar erratic never know water come,Water,synthetic
+661,The electricity pole near Khandagiri has tilted and could fall any moment. children are at risk.,electricity pole khandagiri tilt fall moment child risk,Electricity,synthetic
+662,Broken road near Rourkela is flooded with water during rains. we have been suffering daily.,broken road rourkela flood water rain suffer daily,Roads,synthetic
+663,School zone near Patia has no speed limits enforced. Children are in danger. the whole locality is inconvenienced.,school zone patia no speed limit enforce child danger locality inconvenience,Traffic,synthetic
+664,The electric pole near Jaydev Vihar has a loose wire hanging dangerously.,electric pole jaydev vihar loose wire hang dangerously,Electricity,synthetic
+665,Power outage in Master Canteen Square even after multiple complaints. All perishable food is getting wasted.,power outage master canteen square multiple complaint perishable food get waste,Electricity,synthetic
+666,Footpath near Saheed Nagar school has broken slabs which are dangerous for children.,footpath saheed nagar school break slab dangerous child,Roads,synthetic
+667,The electric connection to Jaydev Vihar community hall has been disconnected wrongly.,electric connection jaydev vihar community hall disconnect wrongly,Electricity,synthetic
+668,The fountain in Unit-6 park has not been working for over a week. It is a public attraction.,fountain unit park not work week public attraction,Parks,synthetic
+669,Road maintenance work near Bomikhal was started but left incomplete repeatedly.,road maintenance work bomikhal start leave incomplete repeatedly,Roads,synthetic
+670,The countdown timer on traffic signal near Chandrasekharpur is not working since last week.,countdown timer traffic signal chandrasekharpur not work week,Traffic,synthetic
+671,The traffic signal near Rasulgarh has been blinking yellow for three days. it is causing inconvenience to residents.,traffic signal rasulgarh blink yellow day cause inconvenience resident,Traffic,synthetic
+672,Road near Barmunda has been dug for cable laying and not repaired for over a week. please take immediate action.,road barmunda dig cable lay not repair week,Roads,synthetic
+673,The road surface near Acharya Vihar has completely eroded. Vehicles are getting damaged.,road surface acharya vihar completely erode vehicle get damage,Roads,synthetic
+674,The bridge near Vani Vihar has damaged railings. It is very unsafe.,bridge vani vihar damage railing unsafe,Roads,synthetic
+675,Frequent voltage fluctuations in Unit-4 are damaging our appliances since last month.,frequent voltage fluctuation unit damage appliance month,Electricity,synthetic
+676,There has been no water supply in Tamando since Monday. it is causing inconvenience to residents.,no water supply tamando monday cause inconvenience resident,Water,synthetic
+677,The electric meter box near Chandrasekharpur is open and exposed to rain. Safety risk.,electric meter box chandrasekharpur open expose rain safety risk,Electricity,synthetic
+678,The chowk near Rourkela is completely broken with multiple potholes. the whole locality is inconvenienced.,chowk rourkela completely break multiple pothole locality inconvenience,Roads,synthetic
+679,Water supply timings in Acharya Vihar are erratic. We never know when water will come.,water supply timing acharya vihar erratic never know water come,Water,synthetic
+680,The garden near Sambalpur has dead plants that have not been replaced repeatedly.,garden sambalpur dead plant not replace repeatedly,Parks,synthetic
+681,The park in Unit-6 has broken benches and no lights. Unsafe at night.,park unit break bench no light unsafe night,Parks,synthetic
+682,The road near Saheed Nagar is full of potholes making two wheelers prone to accidents.,road saheed nagar pothole make wheeler prone accident,Roads,synthetic
+683,Drainage channel near Puri has not been cleaned since last month. Stagnant water everywhere.,drainage channel puri not clean month stagnant water,Sanitation,synthetic
+684,Loose garbage and plastic near Barmunda is blocking the roadside drain.,loose garbage plastic barmunda block roadside drain,Sanitation,synthetic
+685,Broken road tiles near Dumduma are creating hazard for pedestrians for two weeks now.,break road tile dumduma create hazard pedestrian week,Roads,synthetic
+686,Speeding vehicles on Unit-6 chowk are a constant threat. Need speed breaker.,speed vehicle unit chowk constant threat need speed breaker,Traffic,synthetic
+687,The traffic signal near Cuttack is not working again and again. Huge traffic jams forming.,traffic signal cuttack not work huge traffic jam form,Traffic,synthetic
+688,No road marking or lane discipline near Patia. Total traffic disorder.,no road mark lane discipline patia total traffic disorder,Traffic,synthetic
+689,Traffic signal timing near Tamando is wrong. Green for 5 seconds is too short.,traffic signal timing tamando wrong green second short,Traffic,synthetic
+690,The main arterial road near Kalinga Nagar has not been repaired since last month. it is causing inconvenience to residents.,main arterial road kalinga nagar not repair month cause inconvenience resident,Roads,synthetic
+691,Road cutting work was done near Khandagiri but it has not been repaired for two weeks now.,road cutting work khandagiri not repair week,Roads,synthetic
+692,Open drainage near Khandagiri is breeding mosquitoes. Residents are falling sick.,open drainage khandagiri breed mosquito resident fall sick,Sanitation,synthetic
+693,Old water pipes in Jaydev Vihar are rusting and contaminating drinking water supply.,old water pipe jaydev vihar rusting contaminate drink water supply,Water,synthetic
+694,Electricity transformer near Khandagiri has broken down for the past four days. Whole street affected.,electricity transformer khandagiri break past day street affect,Electricity,synthetic
+695,The garbage van has not visited Patia repeatedly. Waste is piling up on the road.,garbage van not visit patia repeatedly waste pile road,Sanitation,synthetic
+696,Drain near Tamando is choked with plastic waste. Sewage spilling on footpath.,drain tamando choke plastic waste sewage spill footpath,Sanitation,synthetic
+697,The water meter in our building near Unit-4 is faulty and showing excess usage.,water meter building unit faulty show excess usage,Water,synthetic
+698,The community dustbin near Sishu Bhawan Chowk is overflowing for more than a week. urgent attention required.,community dustbin sishu bhawan chowk overflow week urgent attention require,Sanitation,synthetic
+699,Broken road tiles near Rourkela are creating hazard for pedestrians since last week.,break road tile rourkela create hazard pedestrian week,Roads,synthetic
+700,Open garbage dumping is happening near IRC Village street. Foul smell everywhere.,open garbage dumping happen irc village street foul smell,Sanitation,synthetic
+701,Public toilet near Saheed Nagar is broken and overflowing for two weeks now. motorists are in danger.,public toilet saheed nagar break overflow week motorist danger,Sanitation,synthetic
+702,There is frequent power cut in Master Canteen Square for the past four days. motorists are in danger.,frequent power cut master canteen square past day motorist danger,Electricity,synthetic
+703,The main arterial road near Bomikhal has not been repaired again and again. children are at risk.,main arterial road bomikhal not repair child risk,Roads,synthetic
+704,Three-wheeler goods vehicles parked on footpath near Brahmapur blocking pedestrians.,wheeler good vehicle park footpath brahmapur block pedestrian,Traffic,synthetic
+705,Park in Unit-6 has an open drainage ditch inside it which is dangerous for children.,park unit open drainage ditch inside dangerous child,Parks,synthetic
+706,New electricity connection applied for near Puri but not provided for three days.,new electricity connection apply puri not provide day,Electricity,synthetic
+707,Trucks are parked illegally overnight on Acharya Vihar street. elderly people are affected.,truck park illegally overnight acharya vihar street elderly people affect,Traffic,synthetic
+708,The water meter in our building near Unit-6 is faulty and showing excess usage.,water meter building unit faulty show excess usage,Water,synthetic
+709,We have not received water supply in Khandagiri for over a week. please take immediate action.,not receive water supply khandagiri week,Water,synthetic
+710,Water pipeline near Dumduma has developed multiple leaks causing waterlogging.,water pipeline dumduma develop multiple leak cause waterlogging,Water,synthetic
+711,Our electricity bill near Patia has come 3 times higher than normal without reason.,electricity bill patia come time high normal reason,Electricity,synthetic
+712,The park in Rourkela has broken benches and no lights. Unsafe at night.,park rourkela break bench no light unsafe night,Parks,synthetic
+713,Manhole cover near Acharya Vihar is broken and open. Very dangerous especially at night.,manhole cover acharya vihar break open dangerous especially night,Sanitation,synthetic
+714,The park in Brahmapur has broken benches and no lights. Unsafe at night.,park brahmapur break bench no light unsafe night,Parks,synthetic
+715,Construction debris has been dumped on the road near Bhubaneswar Old Town for two weeks now. children are at risk.,construction debris dump road bhubaneswar old town week child risk,Roads,synthetic
+716,The drain near IRC Village is overflowing with sewage still not fixed. there could be a serious accident.,drain irc village overflow sewage not fix accident,Sanitation,synthetic
+717,Water supply has been cut near Bomikhal without any prior notice again and again. the situation is getting worse daily.,water supply cut bomikhal prior notice situation get bad daily,Water,synthetic
+718,The water pipe near Cuttack has burst and water is being wasted for the past four days.,water pipe cuttack burst water waste past day,Water,synthetic
+719,"The signal near Patia has been blinking yellow for three days, it is chaos at peak hour.",signal patia blink yellow day chaos peak hour,Traffic,synthetic
+720,There is a leaking water main near Acharya Vihar nagar. Please fix urgently.,leak water main acharya vihar nagar fix urgently,Water,synthetic
+721,Road near Rourkela has been dug for cable laying and not repaired even after multiple complaints. there could be a serious accident.,road rourkela dig cable lay not repair multiple complaint accident,Roads,synthetic
+722,Broken road tiles near Unit-6 are creating hazard for pedestrians for more than a week.,break road tile unit create hazard pedestrian week,Roads,synthetic
+723,The water supply in Rourkela has been disrupted since last week. daily commuters are suffering.,water supply rourkela disrupt week daily commuter suffer,Water,synthetic
+724,There is no traffic control at Rasulgarh during peak hours. Chaos every morning.,no traffic control rasulgarh peak hour chaos morning,Traffic,synthetic
+725,Power supply in IRC Village goes off every night since Monday. We face a lot of issues.,power supply irc village go night monday face lot issue,Electricity,synthetic
+726,Sewage drain near Patia is blocked and water is overflowing on the road. daily commuters are suffering.,sewage drain patia block water overflow road daily commuter suffer,Sanitation,synthetic
+727,Open defecation is happening near the park in Jaydev Vihar every morning.,open defecation happen park jaydev vihar morning,Sanitation,synthetic
+728,The road from Rasulgarh to the main highway is in terrible condition.,road rasulgarh main highway terrible condition,Roads,synthetic
+729,Water tanker has not come to Khandagiri again and again. Residents are suffering.,water tanker not come khandagiri resident suffer,Water,synthetic
+730,Overgrown bushes in Tamando park are becoming shelter for antisocial elements.,overgrown bush tamando park shelter antisocial element,Parks,synthetic
+731,No drinking water in Tamando colony since last month. Residents are buying water at high cost.,no drinking water tamando colony month resident buy water high cost,Water,synthetic
+732,No road marking or lane discipline near Rourkela. Total traffic disorder.,no road mark lane discipline rourkela total traffic disorder,Traffic,synthetic
+733,Streetlights on Dumduma road have been out still not fixed. Area is unsafe at night.,streetlight dumduma road not fix unsafe night,Electricity,synthetic
+734,The footpath on Jaydev Vihar square is broken and dangerous for pedestrians.,footpath jaydev vihar square break dangerous pedestrian,Roads,synthetic
+735,Community water tap near Cuttack has been broken for more than a week. daily commuters are suffering.,community water tap cuttack break week daily commuter suffer,Water,synthetic
+736,Sewage is mixing with drinking water supply in Rourkela. Very serious. it is causing inconvenience to residents.,sewage mix drinking water supply rourkela cause inconvenience resident,Water,synthetic
+737,The streetlight near Unit-6 has been not working since Monday. elderly people are affected.,streetlight unit not work monday elderly people affect,Electricity,synthetic
+738,Overhead electric cable near Saheed Nagar is sagging very low. Vehicles might touch it.,overhead electric cable saheed nagar sag low vehicle touch,Electricity,synthetic
+739,Dead animal carcass lying on the road near Saheed Nagar for three days. Extremely unhygienic.,dead animal carcass lie road saheed nagar day extremely unhygienic,Sanitation,synthetic
+740,Loose garbage and plastic near Acharya Vihar is blocking the roadside drain.,loose garbage plastic acharya vihar block roadside drain,Sanitation,synthetic
+741,The transformer near Master Canteen Square has been making loud noise and sparking for more than a week.,transformer master canteen square make loud noise spark week,Electricity,synthetic
+742,Drain near Chandrasekharpur is choked with plastic waste. Sewage spilling on footpath.,drain chandrasekharpur choke plastic waste sewage spill footpath,Sanitation,synthetic
+743,Garbage collection truck near Bomikhal is coming once a week instead of daily.,garbage collection truck bomikhal come week instead daily,Sanitation,synthetic
+744,The sewer line near Sishu Bhawan Chowk is blocked causing overflow on the main road. it is causing inconvenience to residents.,sewer line sishu bhawan chowk block cause overflow main road cause inconvenience resident,Sanitation,synthetic
+745,New electricity connection applied for near Bomikhal but not provided for the past four days.,new electricity connection apply bomikhal not provide past day,Electricity,synthetic
+746,Trees in Saheed Nagar park have not been trimmed even after multiple complaints. Branches are a hazard.,tree saheed nagar park not trim multiple complaint branch hazard,Parks,synthetic
+747,Children's play equipment in Unit-6 park is rusting and dangerous for two weeks now.,child play equipment unit park rusting dangerous week,Parks,synthetic
+748,The road near Tamando is full of potholes making two wheelers prone to accidents.,road tamando pothole make wheeler prone accident,Roads,synthetic
+749,Public toilet near Khandagiri is broken and overflowing for three days. please take immediate action.,public toilet khandagiri break overflow day,Sanitation,synthetic
+750,"The signal near Brahmapur has been blinking yellow for three days, it is chaos at peak hour.",signal brahmapur blink yellow day chaos peak hour,Traffic,synthetic
+751,The borwell near Vani Vihar is not working for two weeks now. No drinking water available.,borwell vani vihar not work week no drinking water available,Water,synthetic
+752,Garbage near Vani Vihar street has been burning for two days. Air is polluted.,garbage vani vihar street burn day air pollute,Sanitation,synthetic
+753,No signal board at the intersection near Bomikhal. Drivers don't know right of way.,no signal board intersection bomikhal driver don know right way,Traffic,synthetic
+754,The water meter in our building near Unit-4 is faulty and showing excess usage.,water meter building unit faulty show excess usage,Water,synthetic
+755,The electric pole near Khandagiri has a loose wire hanging dangerously.,electric pole khandagiri loose wire hang dangerously,Electricity,synthetic
+756,Broken road tiles near Master Canteen Square are creating hazard for pedestrians again and again.,break road tile master canteen square create hazard pedestrian,Roads,synthetic
+757,There is frequent power cut in Brahmapur for two weeks now. the situation is getting worse daily.,frequent power cut brahmapur week situation get bad daily,Electricity,synthetic
+758,The park near Sambalpur has broken swings and slides. Children are getting injured.,park sambalpur break swing slide child get injure,Parks,synthetic
+759,Road cutting work was done near Sambalpur but it has not been repaired for the past four days.,road cutting work sambalpur not repair past day,Roads,synthetic
+760,The road divider near Kalinga Nagar is broken and there is no barricading. the situation is getting worse daily.,road divider kalinga nagar break no barricading situation get bad daily,Roads,synthetic
+761,Garbage dumping near Kalinga Nagar is happening illegally and nobody is stopping it.,garbage dumping kalinga nagar happen illegally stop,Sanitation,synthetic
+762,The drain near Brahmapur is overflowing with sewage for two weeks now. the whole locality is inconvenienced.,drain brahmapur overflow sewage week locality inconvenience,Sanitation,synthetic
+763,Power cuts in Cuttack are lasting more than 6 hours daily since last week. children are at risk.,power cut cuttack last hour daily week child risk,Electricity,synthetic
+764,Garbage near Bhubaneswar Old Town nagar has been burning for two days. Air is polluted.,garbage bhubaneswar old town nagar burn day air pollute,Sanitation,synthetic
+765,Community water tap near IRC Village has been broken since last month. we have been suffering daily.,community water tap irc village break month suffer daily,Water,synthetic
+766,Wrong side driving near Master Canteen Square is rampant. No enforcement whatsoever.,wrong drive master canteen square rampant no enforcement whatsoever,Traffic,synthetic
+767,Supply water in Bhubaneswar Old Town has high chlorine smell. Not suitable for cooking. please take immediate action.,supply water bhubaneswar old town high chlorine smell not suitable cook,Water,synthetic
+768,The countdown timer on traffic signal near IRC Village is not working since last week.,countdown timer traffic signal irc village not work week,Traffic,synthetic
+769,Auto rickshaws are blocking the entire road near Brahmapur lane every evening.,auto rickshaw block entire road brahmapur lane evening,Traffic,synthetic
+770,The pedestrian signal near Sambalpur is not working since last week. Pedestrians at risk.,pedestrian signal sambalpur not work week pedestrian risk,Traffic,synthetic
+771,Road near Chandrasekharpur has been dug for cable laying and not repaired for the past four days. there could be a serious accident.,road chandrasekharpur dig cable lay not repair past day accident,Roads,synthetic
+772,Road near Acharya Vihar has been heavily damaged due to recent digging work since Monday.,road acharya vihar heavily damage recent digging work monday,Roads,synthetic
+773,Waste dumped near Aiginia flyover is attracting stray dogs and creating hazard.,waste dump aiginia flyover attract stray dog create hazard,Sanitation,synthetic
+774,Water supply timings in Chandrasekharpur are erratic. We never know when water will come.,water supply timing chandrasekharpur erratic never know water come,Water,synthetic
+775,The overhead water tank in Barmunda is leaking and overflowing on the road.,overhead water tank barmunda leak overflow road,Water,synthetic
+776,We have not received water supply in Acharya Vihar since Monday. we have been suffering daily.,not receive water supply acharya vihar monday suffer daily,Water,synthetic
+777,The main water supply valve near Vani Vihar is stuck and causing low pressure issues.,main water supply valve vani vihar stuck cause low pressure issue,Water,synthetic
+778,High tension wire near Master Canteen Square is passing very low over the road. Very dangerous.,high tension wire master canteen square pass low road dangerous,Electricity,synthetic
+779,Water supply has been cut near Chandrasekharpur without any prior notice since last week. motorists are in danger.,water supply cut chandrasekharpur prior notice week motorist danger,Water,synthetic
+780,Broken street light near Chandrasekharpur school is causing safety concern for students.,broken street light chandrasekharpur school cause safety concern student,Electricity,synthetic
+781,Bus stop near Sishu Bhawan Chowk has no shelter. Buses also stop in middle of road causing jam.,bus stop sishu bhawan chowk no shelter bus stop middle road cause jam,Traffic,synthetic
+782,Power outage in Master Canteen Square for three days. All perishable food is getting wasted.,power outage master canteen square day perishable food get waste,Electricity,synthetic
+783,The road from Rasulgarh to the main highway is in terrible condition.,road rasulgarh main highway terrible condition,Roads,synthetic
+784,Garbage dumping near Tamando is happening illegally and nobody is stopping it.,garbage dumping tamando happen illegally stop,Sanitation,synthetic
+785,The electric connection to Patia community hall has been disconnected wrongly.,electric connection patia community hall disconnect wrongly,Electricity,synthetic
+786,The fountain in Chandrasekharpur park has not been working even after multiple complaints. It is a public attraction.,fountain chandrasekharpur park not work multiple complaint public attraction,Parks,synthetic
+787,Electricity transformer near Rasulgarh has broken down repeatedly. Whole street affected.,electricity transformer rasulgarh break repeatedly street affect,Electricity,synthetic
+788,The community dustbin near Rourkela is overflowing again and again. elderly people are affected.,community dustbin rourkela overflow elderly people affect,Sanitation,synthetic
+789,The main water supply valve near Khandagiri is stuck and causing low pressure issues.,main water supply valve khandagiri stuck cause low pressure issue,Water,synthetic
+790,The road in Kalinga Nagar colony has completely broken down after the monsoon. children are at risk.,road kalinga nagar colony completely break monsoon child risk,Roads,synthetic
+791,Open garbage dumping is happening near Brahmapur square. Foul smell everywhere.,open garbage dumping happen brahmapur square foul smell,Sanitation,synthetic
+792,Speed breaker near Aiginia has no markings and is causing accidents.,speed breaker aiginia no marking cause accident,Roads,synthetic
+793,The road from Barmunda to the main highway is in terrible condition.,road barmunda main highway terrible condition,Roads,synthetic
+794,High tension wire near Sishu Bhawan Chowk is passing very low over the road. Very dangerous.,high tension wire sishu bhawan chowk pass low road dangerous,Electricity,synthetic
+795,Concrete road near Aiginia has developed cracks and is sinking in some areas.,concrete road aiginia develop crack sink area,Roads,synthetic
+796,Broken road near IRC Village is flooded with water during rains. it is a public safety hazard.,break road irc village flood water rain public safety hazard,Roads,synthetic
+797,Frequent voltage fluctuations in Barmunda are damaging our appliances repeatedly.,frequent voltage fluctuation barmunda damage appliance repeatedly,Electricity,synthetic
+798,No signal board at the intersection near Jaydev Vihar. Drivers don't know right of way.,no signal board intersection jaydev vihar driver don know right way,Traffic,synthetic
+799,Supply water in Tamando has high chlorine smell. Not suitable for cooking. the situation is getting worse daily.,supply water tamando high chlorine smell not suitable cook situation get bad daily,Water,synthetic
+800,Footpath near Vani Vihar school has broken slabs which are dangerous for children.,footpath vani vihar school break slab dangerous child,Roads,synthetic
